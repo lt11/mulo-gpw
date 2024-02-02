@@ -1,0 +1,98 @@
+here() starts at /home/ltattini/prog/evolrec-ae/gpw-pm-1/scr
+There were 50 or more warnings (use warnings() to see the first 50)
+Error in UseMethod("predict") : 
+  no applicable method for 'predict' applied to an object of class "NULL"
+Calls: run_step3 -> predict
+Execution halted
+here() starts at /home/ltattini/prog/evolrec-ae/gpw-pm-1/scr
+There were 36 warnings (use warnings() to see them)
+There were 15 warnings (use warnings() to see them)
+There were 15 warnings (use warnings() to see them)
+There were 15 warnings (use warnings() to see them)
+There were 15 warnings (use warnings() to see them)
+Error in while (interval_i > 2 & (fity[interval_i] - all_ident_y[max_idx]) *  : 
+  missing value where TRUE/FALSE needed
+Calls: run_step3
+In addition: Warning message:
+In sqrt(peak_af1 * (1 - peak_af1)/(2^T * N1) + peak_af2 * (1 - peak_af2)/(2^T *  :
+  NaNs produced
+Execution halted
+here() starts at /home/ltattini/prog/evolrec-ae/gpw-pm-1/scr
+here() starts at /home/ltattini/prog/evolrec-ae/gpw-pm-1/scr
+here() starts at /home/ltattini/prog/evolrec-ae/gpw-pm-1/scr
+Warning messages:
+1: Removed 2 rows containing non-finite values (stat_smooth). 
+2: Removed 2 rows containing missing values (geom_point). 
+3: Removed 2 rows containing non-finite values (stat_smooth). 
+4: Removed 2 rows containing missing values (geom_point). 
+here() starts at /home/ltattini/prog/evolrec-ae/gpw-pm-1/scr
+There were 50 or more warnings (use warnings() to see the first 50)
+Warning message:
+In simpleLoess(y, x, w, span, degree = degree, parametric = parametric,  :
+  k-d tree limited by memory. ncmax= 200
+Error in UseMethod("predict") : 
+  no applicable method for 'predict' applied to an object of class "NULL"
+Calls: run_step3 -> predict
+Execution halted
+here() starts at /home/ltattini/prog/evolrec-ae/gpw-pm-1/scr
+There were 36 warnings (use warnings() to see them)
+There were 15 warnings (use warnings() to see them)
+There were 15 warnings (use warnings() to see them)
+There were 15 warnings (use warnings() to see them)
+There were 15 warnings (use warnings() to see them)
+Error in while (interval_i > 2 & (fity[interval_i] - all_ident_y[max_idx]) *  : 
+  missing value where TRUE/FALSE needed
+Calls: run_step3
+In addition: Warning message:
+In sqrt(peak_af1 * (1 - peak_af1)/(2^T * N1) + peak_af2 * (1 - peak_af2)/(2^T *  :
+  NaNs produced
+Execution halted
+here() starts at /home/ltattini/prog/evolrec-ae/gpw-pm-1/scr
+here() starts at /home/ltattini/prog/evolrec-ae/gpw-pm-1/scr
+here() starts at /home/ltattini/prog/evolrec-ae/gpw-pm-1/scr
+here() starts at /home/ltattini/prog/evolrec-ae/gpw-pm-1/scr
+There were 50 or more warnings (use warnings() to see the first 50)
+Error in UseMethod("predict") : 
+  no applicable method for 'predict' applied to an object of class "NULL"
+Calls: run_step3 -> predict
+Execution halted
+here() starts at /home/ltattini/prog/evolrec-ae/gpw-pm-1/scr
+There were 36 warnings (use warnings() to see them)
+There were 15 warnings (use warnings() to see them)
+There were 15 warnings (use warnings() to see them)
+There were 15 warnings (use warnings() to see them)
+There were 15 warnings (use warnings() to see them)
+Error in UseMethod("predict") : 
+  no applicable method for 'predict' applied to an object of class "NULL"
+Calls: run_step3 -> predict
+Execution halted
+here() starts at /home/ltattini/prog/evolrec-ae/gpw-pm-1/scr
+here() starts at /home/ltattini/prog/evolrec-ae/gpw-pm-1/scr
+Warning messages:
+1: Removed 1 rows containing non-finite values (stat_smooth). 
+2: Removed 1 rows containing missing values (geom_point). 
+3: Removed 1 rows containing non-finite values (stat_smooth). 
+4: Removed 1 rows containing missing values (geom_point). 
+here() starts at /home/ltattini/prog/evolrec-ae/gpw-pm-1/scr
+here() starts at /home/ltattini/prog/evolrec-ae/gpw-pm-1/scr
+There were 50 or more warnings (use warnings() to see the first 50)
+Error in UseMethod("predict") : 
+  no applicable method for 'predict' applied to an object of class "NULL"
+Calls: run_step3 -> predict
+Execution halted
+here() starts at /home/ltattini/prog/evolrec-ae/gpw-pm-1/scr
+There were 36 warnings (use warnings() to see them)
+There were 15 warnings (use warnings() to see them)
+There were 15 warnings (use warnings() to see them)
+There were 15 warnings (use warnings() to see them)
+There were 15 warnings (use warnings() to see them)
+Error in while (interval_i > 2 & (fity[interval_i] - all_ident_y[max_idx]) *  : 
+  missing value where TRUE/FALSE needed
+Calls: run_step3
+In addition: Warning message:
+In sqrt(peak_af1 * (1 - peak_af1)/(2^T * N1) + peak_af2 * (1 - peak_af2)/(2^T *  :
+  NaNs produced
+Execution halted
+here() starts at /home/ltattini/prog/evolrec-ae/gpw-pm-1/scr
+here() starts at /home/ltattini/prog/evolrec-ae/gpw-pm-1/scr
+here() starts at /home/ltattini/prog/evolrec-ae/gpw-pm-1/scr

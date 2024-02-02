@@ -1,0 +1,31 @@
+### version 0.4
+
+### experiment
+Design = A					# available: A,BH,BL; BH: design B with HIGH selected pool; BL: design B with LOW selected pool
+n1     = 300000				# pool 1 size; the high pool for design A or the selected pool for design B
+n2     = 300000				# pool 2 size: the low pool for design A or the random pool for design B
+t      = 1					# for DH or RI etc., t=0; F2 or F3 etc., t=1
+ua     = 4.26				# yeast values (from BRM github page): 3.93, 4.02, 4.08, 4.13, 4.17, 4.21, 4.24, 4.26, 4.29
+							# respectively for: H1(H)/R1(F2), H2/R2, H3/R3, H4/R4, H5/R5, H6/R6, H7/R7, H8/R8, H9/R9
+
+### ua estimation with: Rscript tools/cal_ua_fk.R < parameters.txt (ua = 2.97291)
+### where the file parameter.txt is:
+# precision = 1e-13
+# k      = 5
+# chrNum = 16					# chromosome number
+# # geneticLength  = 4900		# genome size (cM), this parameter or the following two ones must be provided
+# genomeSize     = 12			# genome size (Mb)
+# ratio         = 2.808036		# whole-genome average of the ratio (kb/cM) from https://wiki.yeastgenome.org/index.php/Combined_Physical_and_Genetic_Maps_of_S._cerevisiae
+
+### block regression
+UNIT     = 1000         # block unit (bp)
+DEG      = 2            # degree of the polynomials to be used in Local Polynomial Regression Fitting
+BLK      = 0.2          # block size = BLK * UNIT, e.g. yeast, BLK = 0.2 ; rice, BLK = 20
+MIN      = 10           # min total depth in block
+MINVALID = 10           # min valid blocks in one chromosome (needed to be at least 10)
+
+# output file determination (optional)
+# Result1_File = result/result1.xls	# including allele frequency and threshold
+# Result2_File = result/result2.xls	# including peak information and confidence interval
+
+

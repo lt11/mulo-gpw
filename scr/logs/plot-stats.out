@@ -1,0 +1,4777 @@
+Running the one for the plots (smooth-plot.R) and the statistical model (BRM.R)...
+Processing sample pair: D1-D2-SK1
+Filtering out loci which were not genotyped in both samples...
+Number of loci in the merged file: 2251
+Fraction of loci retained: 1
+Read global parameters from /home/ltattini/prog/evolrec-ae/gpw-pm-1/lib/da-brm-config.txt .
+result  already exists.
+Parameter Design=A
+Parameter n1=3e+05
+Parameter n2=3e+05
+Parameter t=1
+Parameter ua=4.26
+Parameter UNIT=1000
+Parameter DEG=2
+Parameter BLK=0.2
+Parameter MIN=10
+Parameter MINVALID=10
+Parameter Result1_File=result/result1.xls
+Parameter Result2_File=result/result2.xls
+
+Number of missing data: 12 
+Number of imported chromosomes is 16 .
+Data size of chrI is 135 .
+Total blocks in chrI: 1145
+Number of valid block: 114 
+Data size of chrII is 90 .
+Total blocks in chrII: 4148
+Number of valid block: 76 
+Data size of chrIII is 280 .
+Total blocks in chrIII: 1706
+Number of valid block: 231 
+Data size of chrIV is 72 .
+Total blocks in chrIV: 7436
+Number of valid block: 61 
+Data size of chrV is 70 .
+Total blocks in chrV: 2950
+Number of valid block: 65 
+Data size of chrVI is 1 .
+Total blocks in chrVI: 1498
+Number of valid block: 1 
+Data size of chrVII is 177 .
+Total blocks in chrVII: 5403
+Number of valid block: 148 
+Data size of chrVIII is 9 .
+Total blocks in chrVIII: 2715
+Number of valid block: 6 
+Data size of chrIX is 200 .
+Total blocks in chrIX: 2249
+Number of valid block: 142 
+Data size of chrX is 222 .
+Total blocks in chrX: 3771
+Number of valid block: 188 
+Data size of chrXI is 123 .
+Total blocks in chrXI: 3456
+Number of valid block: 104 
+Data size of chrXII is 192 .
+Total blocks in chrXII: 5272
+Number of valid block: 176 
+Data size of chrXIII is 259 .
+Total blocks in chrXIII: 4619
+Number of valid block: 226 
+Data size of chrXIV is 328 .
+Total blocks in chrXIV: 3961
+Number of valid block: 274 
+Data size of chrXV is 76 .
+Total blocks in chrXV: 5270
+Number of valid block: 63 
+Data size of chrXVI is 3 .
+Total blocks in chrXVI: 4735
+Number of valid block: 3 
+
+Number of missing data: 12 
+Number of imported chromosomes is 16 .
+Data size of chrI is 135 .
+Total blocks in chrI: 1145
+Number of valid block: 114 
+Data size of chrII is 90 .
+Total blocks in chrII: 4148
+Number of valid block: 76 
+Data size of chrIII is 280 .
+Total blocks in chrIII: 1706
+Number of valid block: 231 
+Data size of chrIV is 72 .
+Total blocks in chrIV: 7436
+Number of valid block: 61 
+Data size of chrV is 70 .
+Total blocks in chrV: 2950
+Number of valid block: 65 
+Data size of chrVI is 1 .
+Total blocks in chrVI: 1498
+Number of valid block: 1 
+Data size of chrVII is 177 .
+Total blocks in chrVII: 5403
+Number of valid block: 148 
+Data size of chrVIII is 9 .
+Total blocks in chrVIII: 2715
+Number of valid block: 6 
+Data size of chrIX is 200 .
+Total blocks in chrIX: 2249
+Number of valid block: 142 
+Data size of chrX is 222 .
+Total blocks in chrX: 3771
+Number of valid block: 188 
+Data size of chrXI is 123 .
+Total blocks in chrXI: 3456
+Number of valid block: 104 
+Data size of chrXII is 192 .
+Total blocks in chrXII: 5272
+Number of valid block: 176 
+Data size of chrXIII is 259 .
+Total blocks in chrXIII: 4619
+Number of valid block: 226 
+Data size of chrXIV is 328 .
+Total blocks in chrXIV: 3961
+Number of valid block: 274 
+Data size of chrXV is 76 .
+Total blocks in chrXV: 5270
+Number of valid block: 63 
+Data size of chrXVI is 3 .
+Total blocks in chrXVI: 4735
+Number of valid block: 3 
+
+Number of missing data: 12 
+Number of imported chromosomes is 16 .
+Data size of chrI is 135 .
+Total blocks in chrI: 1145
+Number of valid block: 114 
+Data size of chrII is 90 .
+Total blocks in chrII: 4148
+Number of valid block: 76 
+Data size of chrIII is 280 .
+Total blocks in chrIII: 1706
+Number of valid block: 231 
+Data size of chrIV is 72 .
+Total blocks in chrIV: 7436
+Number of valid block: 61 
+Data size of chrV is 70 .
+Total blocks in chrV: 2950
+Number of valid block: 65 
+Data size of chrVI is 1 .
+Total blocks in chrVI: 1498
+Number of valid block: 1 
+Data size of chrVII is 177 .
+Total blocks in chrVII: 5403
+Number of valid block: 148 
+Data size of chrVIII is 9 .
+Total blocks in chrVIII: 2715
+Number of valid block: 6 
+Data size of chrIX is 200 .
+Total blocks in chrIX: 2249
+Number of valid block: 142 
+Data size of chrX is 222 .
+Total blocks in chrX: 3771
+Number of valid block: 188 
+Data size of chrXI is 123 .
+Total blocks in chrXI: 3456
+Number of valid block: 104 
+Data size of chrXII is 192 .
+Total blocks in chrXII: 5272
+Number of valid block: 176 
+Data size of chrXIII is 259 .
+Total blocks in chrXIII: 4619
+Number of valid block: 226 
+Data size of chrXIV is 328 .
+Total blocks in chrXIV: 3961
+Number of valid block: 274 
+Data size of chrXV is 76 .
+Total blocks in chrXV: 5270
+Number of valid block: 63 
+Data size of chrXVI is 3 .
+Total blocks in chrXVI: 4735
+Number of valid block: 3 
+
+Number of missing data: 12 
+Number of imported chromosomes is 16 .
+Data size of chrI is 135 .
+Total blocks in chrI: 1145
+Number of valid block: 114 
+Data size of chrII is 90 .
+Total blocks in chrII: 4148
+Number of valid block: 76 
+Data size of chrIII is 280 .
+Total blocks in chrIII: 1706
+Number of valid block: 231 
+Data size of chrIV is 72 .
+Total blocks in chrIV: 7436
+Number of valid block: 61 
+Data size of chrV is 70 .
+Total blocks in chrV: 2950
+Number of valid block: 65 
+Data size of chrVI is 1 .
+Total blocks in chrVI: 1498
+Number of valid block: 1 
+Data size of chrVII is 177 .
+Total blocks in chrVII: 5403
+Number of valid block: 148 
+Data size of chrVIII is 9 .
+Total blocks in chrVIII: 2715
+Number of valid block: 6 
+Data size of chrIX is 200 .
+Total blocks in chrIX: 2249
+Number of valid block: 142 
+Data size of chrX is 222 .
+Total blocks in chrX: 3771
+Number of valid block: 188 
+Data size of chrXI is 123 .
+Total blocks in chrXI: 3456
+Number of valid block: 104 
+Data size of chrXII is 192 .
+Total blocks in chrXII: 5272
+Number of valid block: 176 
+Data size of chrXIII is 259 .
+Total blocks in chrXIII: 4619
+Number of valid block: 226 
+Data size of chrXIV is 328 .
+Total blocks in chrXIV: 3961
+Number of valid block: 274 
+Data size of chrXV is 76 .
+Total blocks in chrXV: 5270
+Number of valid block: 63 
+Data size of chrXVI is 3 .
+Total blocks in chrXVI: 4735
+Number of valid block: 3 
+
+Theoretical threshold is ± 0.0039 .
+Export data to result/result1.xls 
+Writing
+
+data size of chrI is 781 
+data size of chrII is 3750 
+data size of chrIII is 1535 
+data size of chrIV is 329 
+data size of chrV is 1735 
+data size of chrVII is 3172 
+Processing sample pair: D1-D2-DBVPG6044
+Filtering out loci which were not genotyped in both samples...
+Number of loci in the merged file: 8343
+Fraction of loci retained: 1
+Read global parameters from /home/ltattini/prog/evolrec-ae/gpw-pm-1/lib/da-brm-config.txt .
+result  already exists.
+Parameter Design=A
+Parameter n1=3e+05
+Parameter n2=3e+05
+Parameter t=1
+Parameter ua=4.26
+Parameter UNIT=1000
+Parameter DEG=2
+Parameter BLK=0.2
+Parameter MIN=10
+Parameter MINVALID=10
+Parameter Result1_File=result/result1.xls
+Parameter Result2_File=result/result2.xls
+
+Number of missing data: 335 
+Number of imported chromosomes is 16 .
+Data size of chrI is 510 .
+Total blocks in chrI: 1145
+Number of valid block: 314 
+Data size of chrII is 402 .
+Total blocks in chrII: 4148
+Number of valid block: 261 
+Data size of chrIII is 1088 .
+Total blocks in chrIII: 1706
+Number of valid block: 593 
+Data size of chrIV is 182 .
+Total blocks in chrIV: 7436
+Number of valid block: 141 
+Data size of chrV is 239 .
+Total blocks in chrV: 2950
+Number of valid block: 167 
+Data size of chrVI is 0 .
+Data size of chrVII is 525 .
+Total blocks in chrVII: 5403
+Number of valid block: 376 
+Data size of chrVIII is 161 .
+Total blocks in chrVIII: 2715
+Number of valid block: 62 
+Data size of chrIX is 582 .
+Total blocks in chrIX: 2249
+Number of valid block: 382 
+Data size of chrX is 654 .
+Total blocks in chrX: 3771
+Number of valid block: 448 
+Data size of chrXI is 584 .
+Total blocks in chrXI: 3456
+Number of valid block: 396 
+Data size of chrXII is 929 .
+Total blocks in chrXII: 5272
+Number of valid block: 546 
+Data size of chrXIII is 714 .
+Total blocks in chrXIII: 4619
+Number of valid block: 520 
+Data size of chrXIV is 1130 .
+Total blocks in chrXIV: 3961
+Number of valid block: 800 
+Data size of chrXV is 279 .
+Total blocks in chrXV: 5270
+Number of valid block: 170 
+Data size of chrXVI is 14 .
+Total blocks in chrXVI: 4735
+Number of valid block: 10 
+
+Number of missing data: 335 
+Number of imported chromosomes is 16 .
+Data size of chrI is 510 .
+Total blocks in chrI: 1145
+Number of valid block: 314 
+Data size of chrII is 402 .
+Total blocks in chrII: 4148
+Number of valid block: 261 
+Data size of chrIII is 1088 .
+Total blocks in chrIII: 1706
+Number of valid block: 594 
+Data size of chrIV is 182 .
+Total blocks in chrIV: 7436
+Number of valid block: 141 
+Data size of chrV is 239 .
+Total blocks in chrV: 2950
+Number of valid block: 167 
+Data size of chrVI is 0 .
+Data size of chrVII is 525 .
+Total blocks in chrVII: 5403
+Number of valid block: 376 
+Data size of chrVIII is 161 .
+Total blocks in chrVIII: 2715
+Number of valid block: 62 
+Data size of chrIX is 582 .
+Total blocks in chrIX: 2249
+Number of valid block: 382 
+Data size of chrX is 654 .
+Total blocks in chrX: 3771
+Number of valid block: 448 
+Data size of chrXI is 584 .
+Total blocks in chrXI: 3456
+Number of valid block: 396 
+Data size of chrXII is 929 .
+Total blocks in chrXII: 5272
+Number of valid block: 546 
+Data size of chrXIII is 714 .
+Total blocks in chrXIII: 4619
+Number of valid block: 520 
+Data size of chrXIV is 1130 .
+Total blocks in chrXIV: 3961
+Number of valid block: 800 
+Data size of chrXV is 279 .
+Total blocks in chrXV: 5270
+Number of valid block: 170 
+Data size of chrXVI is 14 .
+Total blocks in chrXVI: 4735
+Number of valid block: 10 
+
+Number of missing data: 335 
+Number of imported chromosomes is 16 .
+Data size of chrI is 510 .
+Total blocks in chrI: 1145
+Number of valid block: 314 
+Data size of chrII is 402 .
+Total blocks in chrII: 4148
+Number of valid block: 261 
+Data size of chrIII is 1088 .
+Total blocks in chrIII: 1706
+Number of valid block: 593 
+Data size of chrIV is 182 .
+Total blocks in chrIV: 7436
+Number of valid block: 141 
+Data size of chrV is 239 .
+Total blocks in chrV: 2950
+Number of valid block: 167 
+Data size of chrVI is 0 .
+Data size of chrVII is 525 .
+Total blocks in chrVII: 5403
+Number of valid block: 376 
+Data size of chrVIII is 161 .
+Total blocks in chrVIII: 2715
+Number of valid block: 62 
+Data size of chrIX is 582 .
+Total blocks in chrIX: 2249
+Number of valid block: 382 
+Data size of chrX is 654 .
+Total blocks in chrX: 3771
+Number of valid block: 448 
+Data size of chrXI is 584 .
+Total blocks in chrXI: 3456
+Number of valid block: 396 
+Data size of chrXII is 929 .
+Total blocks in chrXII: 5272
+Number of valid block: 546 
+Data size of chrXIII is 714 .
+Total blocks in chrXIII: 4619
+Number of valid block: 520 
+Data size of chrXIV is 1130 .
+Total blocks in chrXIV: 3961
+Number of valid block: 800 
+Data size of chrXV is 279 .
+Total blocks in chrXV: 5270
+Number of valid block: 170 
+Data size of chrXVI is 14 .
+Total blocks in chrXVI: 4735
+Number of valid block: 10 
+
+Number of missing data: 335 
+Number of imported chromosomes is 16 .
+Data size of chrI is 510 .
+Total blocks in chrI: 1145
+Number of valid block: 314 
+Data size of chrII is 402 .
+Total blocks in chrII: 4148
+Number of valid block: 261 
+Data size of chrIII is 1088 .
+Total blocks in chrIII: 1706
+Number of valid block: 593 
+Data size of chrIV is 182 .
+Total blocks in chrIV: 7436
+Number of valid block: 141 
+Data size of chrV is 239 .
+Total blocks in chrV: 2950
+Number of valid block: 167 
+Data size of chrVI is 0 .
+Data size of chrVII is 525 .
+Total blocks in chrVII: 5403
+Number of valid block: 376 
+Data size of chrVIII is 161 .
+Total blocks in chrVIII: 2715
+Number of valid block: 62 
+Data size of chrIX is 582 .
+Total blocks in chrIX: 2249
+Number of valid block: 382 
+Data size of chrX is 654 .
+Total blocks in chrX: 3771
+Number of valid block: 448 
+Data size of chrXI is 584 .
+Total blocks in chrXI: 3456
+Number of valid block: 396 
+Data size of chrXII is 929 .
+Total blocks in chrXII: 5272
+Number of valid block: 546 
+Data size of chrXIII is 714 .
+Total blocks in chrXIII: 4619
+Number of valid block: 520 
+Data size of chrXIV is 1130 .
+Total blocks in chrXIV: 3961
+Number of valid block: 800 
+Data size of chrXV is 279 .
+Total blocks in chrXV: 5270
+Number of valid block: 170 
+Data size of chrXVI is 14 .
+Total blocks in chrXVI: 4735
+Number of valid block: 10 
+
+Theoretical threshold is ± 0.0039 .
+Export data to result/result1.xls 
+Writing
+
+data size of chrI is 972 
+data size of chrII is 2766 
+data size of chrIII is 1704 
+data size of chrIV is 4521 
+Processing sample pair: D1-D2-DBVPG6765
+Filtering out loci which were not genotyped in both samples...
+Number of loci in the merged file: 43645
+Fraction of loci retained: 0.9998625
+Read global parameters from /home/ltattini/prog/evolrec-ae/gpw-pm-1/lib/da-brm-config.txt .
+result  already exists.
+Parameter Design=A
+Parameter n1=3e+05
+Parameter n2=3e+05
+Parameter t=1
+Parameter ua=4.26
+Parameter UNIT=1000
+Parameter DEG=2
+Parameter BLK=0.2
+Parameter MIN=10
+Parameter MINVALID=10
+Parameter Result1_File=result/result1.xls
+Parameter Result2_File=result/result2.xls
+
+Number of missing data: 1561 
+Number of imported chromosomes is 16 .
+Data size of chrI is 768 .
+Total blocks in chrI: 1145
+Number of valid block: 337 
+Data size of chrII is 2857 .
+Total blocks in chrII: 4148
+Number of valid block: 1769 
+Data size of chrIII is 752 .
+Total blocks in chrIII: 1706
+Number of valid block: 476 
+Data size of chrIV is 5835 .
+Total blocks in chrIV: 7436
+Number of valid block: 3279 
+Data size of chrV is 2198 .
+Total blocks in chrV: 2950
+Number of valid block: 1271 
+Data size of chrVI is 1003 .
+Total blocks in chrVI: 1498
+Number of valid block: 583 
+Data size of chrVII is 3908 .
+Total blocks in chrVII: 5403
+Number of valid block: 2180 
+Data size of chrVIII is 1793 .
+Total blocks in chrVIII: 2715
+Number of valid block: 1085 
+Data size of chrIX is 1491 .
+Total blocks in chrIX: 2249
+Number of valid block: 781 
+Data size of chrX is 2577 .
+Total blocks in chrX: 3771
+Number of valid block: 1557 
+Data size of chrXI is 2357 .
+Total blocks in chrXI: 3456
+Number of valid block: 1423 
+Data size of chrXII is 2997 .
+Total blocks in chrXII: 5272
+Number of valid block: 1899 
+Data size of chrXIII is 2887 .
+Total blocks in chrXIII: 4619
+Number of valid block: 1749 
+Data size of chrXIV is 2661 .
+Total blocks in chrXIV: 3961
+Number of valid block: 1590 
+Data size of chrXV is 4107 .
+Total blocks in chrXV: 5270
+Number of valid block: 2425 
+Data size of chrXVI is 3475 .
+Total blocks in chrXVI: 4735
+Number of valid block: 2071 
+
+Number of missing data: 1561 
+Number of imported chromosomes is 16 .
+Data size of chrI is 768 .
+Total blocks in chrI: 1145
+Number of valid block: 337 
+Data size of chrII is 2857 .
+Total blocks in chrII: 4148
+Number of valid block: 1769 
+Data size of chrIII is 752 .
+Total blocks in chrIII: 1706
+Number of valid block: 476 
+Data size of chrIV is 5835 .
+Total blocks in chrIV: 7436
+Number of valid block: 3279 
+Data size of chrV is 2198 .
+Total blocks in chrV: 2950
+Number of valid block: 1271 
+Data size of chrVI is 1003 .
+Total blocks in chrVI: 1498
+Number of valid block: 583 
+Data size of chrVII is 3908 .
+Total blocks in chrVII: 5403
+Number of valid block: 2180 
+Data size of chrVIII is 1793 .
+Total blocks in chrVIII: 2715
+Number of valid block: 1085 
+Data size of chrIX is 1491 .
+Total blocks in chrIX: 2249
+Number of valid block: 781 
+Data size of chrX is 2577 .
+Total blocks in chrX: 3771
+Number of valid block: 1557 
+Data size of chrXI is 2357 .
+Total blocks in chrXI: 3456
+Number of valid block: 1423 
+Data size of chrXII is 2997 .
+Total blocks in chrXII: 5272
+Number of valid block: 1899 
+Data size of chrXIII is 2887 .
+Total blocks in chrXIII: 4619
+Number of valid block: 1749 
+Data size of chrXIV is 2661 .
+Total blocks in chrXIV: 3961
+Number of valid block: 1590 
+Data size of chrXV is 4107 .
+Total blocks in chrXV: 5270
+Number of valid block: 2425 
+Data size of chrXVI is 3475 .
+Total blocks in chrXVI: 4735
+Number of valid block: 2071 
+
+Number of missing data: 1561 
+Number of imported chromosomes is 16 .
+Data size of chrI is 768 .
+Total blocks in chrI: 1145
+Number of valid block: 337 
+Data size of chrII is 2857 .
+Total blocks in chrII: 4148
+Number of valid block: 1769 
+Data size of chrIII is 752 .
+Total blocks in chrIII: 1706
+Number of valid block: 476 
+Data size of chrIV is 5835 .
+Total blocks in chrIV: 7436
+Number of valid block: 3279 
+Data size of chrV is 2198 .
+Total blocks in chrV: 2950
+Number of valid block: 1271 
+Data size of chrVI is 1003 .
+Total blocks in chrVI: 1498
+Number of valid block: 583 
+Data size of chrVII is 3908 .
+Total blocks in chrVII: 5403
+Number of valid block: 2180 
+Data size of chrVIII is 1793 .
+Total blocks in chrVIII: 2715
+Number of valid block: 1085 
+Data size of chrIX is 1491 .
+Total blocks in chrIX: 2249
+Number of valid block: 781 
+Data size of chrX is 2577 .
+Total blocks in chrX: 3771
+Number of valid block: 1557 
+Data size of chrXI is 2357 .
+Total blocks in chrXI: 3456
+Number of valid block: 1423 
+Data size of chrXII is 2997 .
+Total blocks in chrXII: 5272
+Number of valid block: 1899 
+Data size of chrXIII is 2887 .
+Total blocks in chrXIII: 4619
+Number of valid block: 1749 
+Data size of chrXIV is 2661 .
+Total blocks in chrXIV: 3961
+Number of valid block: 1590 
+Data size of chrXV is 4107 .
+Total blocks in chrXV: 5270
+Number of valid block: 2425 
+Data size of chrXVI is 3475 .
+Total blocks in chrXVI: 4735
+Number of valid block: 2071 
+
+Number of missing data: 1561 
+Number of imported chromosomes is 16 .
+Data size of chrI is 768 .
+Total blocks in chrI: 1145
+Number of valid block: 337 
+Data size of chrII is 2857 .
+Total blocks in chrII: 4148
+Number of valid block: 1769 
+Data size of chrIII is 752 .
+Total blocks in chrIII: 1706
+Number of valid block: 476 
+Data size of chrIV is 5835 .
+Total blocks in chrIV: 7436
+Number of valid block: 3279 
+Data size of chrV is 2198 .
+Total blocks in chrV: 2950
+Number of valid block: 1271 
+Data size of chrVI is 1003 .
+Total blocks in chrVI: 1498
+Number of valid block: 583 
+Data size of chrVII is 3908 .
+Total blocks in chrVII: 5403
+Number of valid block: 2180 
+Data size of chrVIII is 1793 .
+Total blocks in chrVIII: 2715
+Number of valid block: 1085 
+Data size of chrIX is 1491 .
+Total blocks in chrIX: 2249
+Number of valid block: 781 
+Data size of chrX is 2577 .
+Total blocks in chrX: 3771
+Number of valid block: 1557 
+Data size of chrXI is 2357 .
+Total blocks in chrXI: 3456
+Number of valid block: 1423 
+Data size of chrXII is 2997 .
+Total blocks in chrXII: 5272
+Number of valid block: 1899 
+Data size of chrXIII is 2887 .
+Total blocks in chrXIII: 4619
+Number of valid block: 1749 
+Data size of chrXIV is 2661 .
+Total blocks in chrXIV: 3961
+Number of valid block: 1590 
+Data size of chrXV is 4107 .
+Total blocks in chrXV: 5270
+Number of valid block: 2425 
+Data size of chrXVI is 3475 .
+Total blocks in chrXVI: 4735
+Number of valid block: 2071 
+
+Theoretical threshold is ± 0.0039 .
+Export data to result/result1.xls 
+Writing
+
+data size of chrI is 1080 
+data size of chrII is 3984 
+data size of chrIII is 1699 
+data size of chrIV is 7400 
+data size of chrV is 2844 
+data size of chrVI is 1439 
+data size of chrVII is 5319 
+data size of chrVIII is 2654 
+data size of chrIX is 2164 
+data size of chrX is 3562 
+data size of chrXI is 3414 
+data size of chrXII is 5242 
+data size of chrXIII is 4603 
+data size of chrXIV is 3924 
+data size of chrXV is 5228 
+data size of chrXVI is 4695 
+   user  system elapsed 
+ 43.853   7.721  51.580 
+finished.
+Processing sample pair: D1-D2-Y12
+Filtering out loci which were not genotyped in both samples...
+Number of loci in the merged file: 24499
+Fraction of loci retained: 0.9995918
+Read global parameters from /home/ltattini/prog/evolrec-ae/gpw-pm-1/lib/da-brm-config.txt .
+result  already exists.
+Parameter Design=A
+Parameter n1=3e+05
+Parameter n2=3e+05
+Parameter t=1
+Parameter ua=4.26
+Parameter UNIT=1000
+Parameter DEG=2
+Parameter BLK=0.2
+Parameter MIN=10
+Parameter MINVALID=10
+Parameter Result1_File=result/result1.xls
+Parameter Result2_File=result/result2.xls
+
+Number of missing data: 1238 
+Number of imported chromosomes is 16 .
+Data size of chrI is 391 .
+Total blocks in chrI: 1145
+Number of valid block: 239 
+Data size of chrII is 1520 .
+Total blocks in chrII: 4148
+Number of valid block: 1107 
+Data size of chrIII is 709 .
+Total blocks in chrIII: 1706
+Number of valid block: 411 
+Data size of chrIV is 2847 .
+Total blocks in chrIV: 7436
+Number of valid block: 2126 
+Data size of chrV is 1094 .
+Total blocks in chrV: 2950
+Number of valid block: 781 
+Data size of chrVI is 927 .
+Total blocks in chrVI: 1498
+Number of valid block: 478 
+Data size of chrVII is 2484 .
+Total blocks in chrVII: 5403
+Number of valid block: 1594 
+Data size of chrVIII is 1291 .
+Total blocks in chrVIII: 2715
+Number of valid block: 823 
+Data size of chrIX is 940 .
+Total blocks in chrIX: 2249
+Number of valid block: 614 
+Data size of chrX is 1293 .
+Total blocks in chrX: 3771
+Number of valid block: 918 
+Data size of chrXI is 992 .
+Total blocks in chrXI: 3456
+Number of valid block: 736 
+Data size of chrXII is 1655 .
+Total blocks in chrXII: 5272
+Number of valid block: 1285 
+Data size of chrXIII is 1543 .
+Total blocks in chrXIII: 4619
+Number of valid block: 1173 
+Data size of chrXIV is 1201 .
+Total blocks in chrXIV: 3961
+Number of valid block: 855 
+Data size of chrXV is 2131 .
+Total blocks in chrXV: 5270
+Number of valid block: 1510 
+Data size of chrXVI is 1775 .
+Total blocks in chrXVI: 4735
+Number of valid block: 1324 
+
+Number of missing data: 1238 
+Number of imported chromosomes is 16 .
+Data size of chrI is 391 .
+Total blocks in chrI: 1145
+Number of valid block: 239 
+Data size of chrII is 1520 .
+Total blocks in chrII: 4148
+Number of valid block: 1107 
+Data size of chrIII is 709 .
+Total blocks in chrIII: 1706
+Number of valid block: 411 
+Data size of chrIV is 2847 .
+Total blocks in chrIV: 7436
+Number of valid block: 2126 
+Data size of chrV is 1094 .
+Total blocks in chrV: 2950
+Number of valid block: 781 
+Data size of chrVI is 927 .
+Total blocks in chrVI: 1498
+Number of valid block: 478 
+Data size of chrVII is 2484 .
+Total blocks in chrVII: 5403
+Number of valid block: 1594 
+Data size of chrVIII is 1291 .
+Total blocks in chrVIII: 2715
+Number of valid block: 823 
+Data size of chrIX is 940 .
+Total blocks in chrIX: 2249
+Number of valid block: 614 
+Data size of chrX is 1293 .
+Total blocks in chrX: 3771
+Number of valid block: 918 
+Data size of chrXI is 992 .
+Total blocks in chrXI: 3456
+Number of valid block: 736 
+Data size of chrXII is 1655 .
+Total blocks in chrXII: 5272
+Number of valid block: 1285 
+Data size of chrXIII is 1543 .
+Total blocks in chrXIII: 4619
+Number of valid block: 1173 
+Data size of chrXIV is 1201 .
+Total blocks in chrXIV: 3961
+Number of valid block: 855 
+Data size of chrXV is 2131 .
+Total blocks in chrXV: 5270
+Number of valid block: 1510 
+Data size of chrXVI is 1775 .
+Total blocks in chrXVI: 4735
+Number of valid block: 1324 
+
+Number of missing data: 1238 
+Number of imported chromosomes is 16 .
+Data size of chrI is 391 .
+Total blocks in chrI: 1145
+Number of valid block: 239 
+Data size of chrII is 1520 .
+Total blocks in chrII: 4148
+Number of valid block: 1107 
+Data size of chrIII is 709 .
+Total blocks in chrIII: 1706
+Number of valid block: 411 
+Data size of chrIV is 2847 .
+Total blocks in chrIV: 7436
+Number of valid block: 2126 
+Data size of chrV is 1094 .
+Total blocks in chrV: 2950
+Number of valid block: 781 
+Data size of chrVI is 927 .
+Total blocks in chrVI: 1498
+Number of valid block: 478 
+Data size of chrVII is 2484 .
+Total blocks in chrVII: 5403
+Number of valid block: 1594 
+Data size of chrVIII is 1291 .
+Total blocks in chrVIII: 2715
+Number of valid block: 823 
+Data size of chrIX is 940 .
+Total blocks in chrIX: 2249
+Number of valid block: 614 
+Data size of chrX is 1293 .
+Total blocks in chrX: 3771
+Number of valid block: 918 
+Data size of chrXI is 992 .
+Total blocks in chrXI: 3456
+Number of valid block: 736 
+Data size of chrXII is 1655 .
+Total blocks in chrXII: 5272
+Number of valid block: 1285 
+Data size of chrXIII is 1543 .
+Total blocks in chrXIII: 4619
+Number of valid block: 1173 
+Data size of chrXIV is 1201 .
+Total blocks in chrXIV: 3961
+Number of valid block: 855 
+Data size of chrXV is 2131 .
+Total blocks in chrXV: 5270
+Number of valid block: 1510 
+Data size of chrXVI is 1775 .
+Total blocks in chrXVI: 4735
+Number of valid block: 1324 
+
+Number of missing data: 1238 
+Number of imported chromosomes is 16 .
+Data size of chrI is 391 .
+Total blocks in chrI: 1145
+Number of valid block: 239 
+Data size of chrII is 1520 .
+Total blocks in chrII: 4148
+Number of valid block: 1107 
+Data size of chrIII is 709 .
+Total blocks in chrIII: 1706
+Number of valid block: 411 
+Data size of chrIV is 2847 .
+Total blocks in chrIV: 7436
+Number of valid block: 2126 
+Data size of chrV is 1094 .
+Total blocks in chrV: 2950
+Number of valid block: 781 
+Data size of chrVI is 927 .
+Total blocks in chrVI: 1498
+Number of valid block: 478 
+Data size of chrVII is 2484 .
+Total blocks in chrVII: 5403
+Number of valid block: 1594 
+Data size of chrVIII is 1291 .
+Total blocks in chrVIII: 2715
+Number of valid block: 823 
+Data size of chrIX is 940 .
+Total blocks in chrIX: 2249
+Number of valid block: 614 
+Data size of chrX is 1293 .
+Total blocks in chrX: 3771
+Number of valid block: 918 
+Data size of chrXI is 992 .
+Total blocks in chrXI: 3456
+Number of valid block: 736 
+Data size of chrXII is 1655 .
+Total blocks in chrXII: 5272
+Number of valid block: 1285 
+Data size of chrXIII is 1543 .
+Total blocks in chrXIII: 4619
+Number of valid block: 1173 
+Data size of chrXIV is 1201 .
+Total blocks in chrXIV: 3961
+Number of valid block: 855 
+Data size of chrXV is 2131 .
+Total blocks in chrXV: 5270
+Number of valid block: 1510 
+Data size of chrXVI is 1775 .
+Total blocks in chrXVI: 4735
+Number of valid block: 1324 
+
+Theoretical threshold is ± 0.0039 .
+Export data to result/result1.xls 
+Writing
+
+data size of chrI is 1005 
+data size of chrII is 4015 
+data size of chrIII is 1664 
+data size of chrIV is 7399 
+data size of chrV is 2867 
+data size of chrVI is 1372 
+data size of chrVII is 5370 
+data size of chrVIII is 2713 
+data size of chrIX is 2043 
+data size of chrX is 3571 
+data size of chrXI is 3414 
+data size of chrXII is 5232 
+data size of chrXIII is 4603 
+data size of chrXIV is 3871 
+data size of chrXV is 5191 
+data size of chrXVI is 4564 
+   user  system elapsed 
+ 28.217   4.486  32.706 
+finished.
+Processing sample pair: D1-D2-YPS128
+Filtering out loci which were not genotyped in both samples...
+Number of loci in the merged file: 19934
+Fraction of loci retained: 0.9997492
+Read global parameters from /home/ltattini/prog/evolrec-ae/gpw-pm-1/lib/da-brm-config.txt .
+result  already exists.
+Parameter Design=A
+Parameter n1=3e+05
+Parameter n2=3e+05
+Parameter t=1
+Parameter ua=4.26
+Parameter UNIT=1000
+Parameter DEG=2
+Parameter BLK=0.2
+Parameter MIN=10
+Parameter MINVALID=10
+Parameter Result1_File=result/result1.xls
+Parameter Result2_File=result/result2.xls
+
+Number of missing data: 877 
+Number of imported chromosomes is 16 .
+Data size of chrI is 733 .
+Total blocks in chrI: 1145
+Number of valid block: 295 
+Data size of chrII is 1220 .
+Total blocks in chrII: 4148
+Number of valid block: 875 
+Data size of chrIII is 515 .
+Total blocks in chrIII: 1706
+Number of valid block: 364 
+Data size of chrIV is 1976 .
+Total blocks in chrIV: 7436
+Number of valid block: 1495 
+Data size of chrV is 768 .
+Total blocks in chrV: 2950
+Number of valid block: 554 
+Data size of chrVI is 745 .
+Total blocks in chrVI: 1498
+Number of valid block: 398 
+Data size of chrVII is 1387 .
+Total blocks in chrVII: 5403
+Number of valid block: 1067 
+Data size of chrVIII is 1375 .
+Total blocks in chrVIII: 2715
+Number of valid block: 647 
+Data size of chrIX is 690 .
+Total blocks in chrIX: 2249
+Number of valid block: 467 
+Data size of chrX is 1029 .
+Total blocks in chrX: 3771
+Number of valid block: 685 
+Data size of chrXI is 946 .
+Total blocks in chrXI: 3456
+Number of valid block: 722 
+Data size of chrXII is 1698 .
+Total blocks in chrXII: 5272
+Number of valid block: 1062 
+Data size of chrXIII is 1716 .
+Total blocks in chrXIII: 4619
+Number of valid block: 998 
+Data size of chrXIV is 1162 .
+Total blocks in chrXIV: 3961
+Number of valid block: 791 
+Data size of chrXV is 1450 .
+Total blocks in chrXV: 5270
+Number of valid block: 1070 
+Data size of chrXVI is 1350 .
+Total blocks in chrXVI: 4735
+Number of valid block: 961 
+
+Number of missing data: 877 
+Number of imported chromosomes is 16 .
+Data size of chrI is 733 .
+Total blocks in chrI: 1145
+Number of valid block: 295 
+Data size of chrII is 1220 .
+Total blocks in chrII: 4148
+Number of valid block: 875 
+Data size of chrIII is 515 .
+Total blocks in chrIII: 1706
+Number of valid block: 364 
+Data size of chrIV is 1976 .
+Total blocks in chrIV: 7436
+Number of valid block: 1495 
+Data size of chrV is 768 .
+Total blocks in chrV: 2950
+Number of valid block: 554 
+Data size of chrVI is 745 .
+Total blocks in chrVI: 1498
+Number of valid block: 398 
+Data size of chrVII is 1387 .
+Total blocks in chrVII: 5403
+Number of valid block: 1067 
+Data size of chrVIII is 1375 .
+Total blocks in chrVIII: 2715
+Number of valid block: 647 
+Data size of chrIX is 690 .
+Total blocks in chrIX: 2249
+Number of valid block: 467 
+Data size of chrX is 1029 .
+Total blocks in chrX: 3771
+Number of valid block: 685 
+Data size of chrXI is 946 .
+Total blocks in chrXI: 3456
+Number of valid block: 722 
+Data size of chrXII is 1698 .
+Total blocks in chrXII: 5272
+Number of valid block: 1062 
+Data size of chrXIII is 1716 .
+Total blocks in chrXIII: 4619
+Number of valid block: 998 
+Data size of chrXIV is 1162 .
+Total blocks in chrXIV: 3961
+Number of valid block: 791 
+Data size of chrXV is 1450 .
+Total blocks in chrXV: 5270
+Number of valid block: 1070 
+Data size of chrXVI is 1350 .
+Total blocks in chrXVI: 4735
+Number of valid block: 961 
+
+Number of missing data: 877 
+Number of imported chromosomes is 16 .
+Data size of chrI is 733 .
+Total blocks in chrI: 1145
+Number of valid block: 295 
+Data size of chrII is 1220 .
+Total blocks in chrII: 4148
+Number of valid block: 875 
+Data size of chrIII is 515 .
+Total blocks in chrIII: 1706
+Number of valid block: 364 
+Data size of chrIV is 1976 .
+Total blocks in chrIV: 7436
+Number of valid block: 1495 
+Data size of chrV is 768 .
+Total blocks in chrV: 2950
+Number of valid block: 554 
+Data size of chrVI is 745 .
+Total blocks in chrVI: 1498
+Number of valid block: 398 
+Data size of chrVII is 1387 .
+Total blocks in chrVII: 5403
+Number of valid block: 1067 
+Data size of chrVIII is 1375 .
+Total blocks in chrVIII: 2715
+Number of valid block: 647 
+Data size of chrIX is 690 .
+Total blocks in chrIX: 2249
+Number of valid block: 467 
+Data size of chrX is 1029 .
+Total blocks in chrX: 3771
+Number of valid block: 685 
+Data size of chrXI is 946 .
+Total blocks in chrXI: 3456
+Number of valid block: 722 
+Data size of chrXII is 1698 .
+Total blocks in chrXII: 5272
+Number of valid block: 1062 
+Data size of chrXIII is 1716 .
+Total blocks in chrXIII: 4619
+Number of valid block: 998 
+Data size of chrXIV is 1162 .
+Total blocks in chrXIV: 3961
+Number of valid block: 791 
+Data size of chrXV is 1450 .
+Total blocks in chrXV: 5270
+Number of valid block: 1070 
+Data size of chrXVI is 1350 .
+Total blocks in chrXVI: 4735
+Number of valid block: 961 
+
+Number of missing data: 877 
+Number of imported chromosomes is 16 .
+Data size of chrI is 733 .
+Total blocks in chrI: 1145
+Number of valid block: 295 
+Data size of chrII is 1220 .
+Total blocks in chrII: 4148
+Number of valid block: 875 
+Data size of chrIII is 515 .
+Total blocks in chrIII: 1706
+Number of valid block: 364 
+Data size of chrIV is 1976 .
+Total blocks in chrIV: 7436
+Number of valid block: 1495 
+Data size of chrV is 768 .
+Total blocks in chrV: 2950
+Number of valid block: 554 
+Data size of chrVI is 745 .
+Total blocks in chrVI: 1498
+Number of valid block: 398 
+Data size of chrVII is 1387 .
+Total blocks in chrVII: 5403
+Number of valid block: 1067 
+Data size of chrVIII is 1375 .
+Total blocks in chrVIII: 2715
+Number of valid block: 647 
+Data size of chrIX is 690 .
+Total blocks in chrIX: 2249
+Number of valid block: 467 
+Data size of chrX is 1029 .
+Total blocks in chrX: 3771
+Number of valid block: 685 
+Data size of chrXI is 946 .
+Total blocks in chrXI: 3456
+Number of valid block: 722 
+Data size of chrXII is 1698 .
+Total blocks in chrXII: 5272
+Number of valid block: 1062 
+Data size of chrXIII is 1716 .
+Total blocks in chrXIII: 4619
+Number of valid block: 998 
+Data size of chrXIV is 1162 .
+Total blocks in chrXIV: 3961
+Number of valid block: 791 
+Data size of chrXV is 1450 .
+Total blocks in chrXV: 5270
+Number of valid block: 1070 
+Data size of chrXVI is 1350 .
+Total blocks in chrXVI: 4735
+Number of valid block: 961 
+
+Theoretical threshold is ± 0.0039 .
+Export data to result/result1.xls 
+Writing
+
+data size of chrI is 1111 
+data size of chrII is 4004 
+data size of chrIII is 1650 
+data size of chrIV is 7429 
+data size of chrV is 2845 
+data size of chrVI is 1387 
+data size of chrVII is 5373 
+data size of chrVIII is 2703 
+data size of chrIX is 2062 
+data size of chrX is 3680 
+data size of chrXI is 3375 
+data size of chrXII is 5241 
+data size of chrXIII is 4603 
+data size of chrXIV is 3957 
+data size of chrXV is 5238 
+data size of chrXVI is 4694 
+   user  system elapsed 
+ 23.133   4.351  27.486 
+finished.
+Processing sample pair: D4-D5-SK1
+Filtering out loci which were not genotyped in both samples...
+Number of loci in the merged file: 2251
+Fraction of loci retained: 1
+Read global parameters from /home/ltattini/prog/evolrec-ae/gpw-pm-1/lib/da-brm-config.txt .
+result  already exists.
+Parameter Design=A
+Parameter n1=3e+05
+Parameter n2=3e+05
+Parameter t=1
+Parameter ua=4.26
+Parameter UNIT=1000
+Parameter DEG=2
+Parameter BLK=0.2
+Parameter MIN=10
+Parameter MINVALID=10
+Parameter Result1_File=result/result1.xls
+Parameter Result2_File=result/result2.xls
+
+Number of missing data: 12 
+Number of imported chromosomes is 16 .
+Data size of chrI is 135 .
+Total blocks in chrI: 1145
+Number of valid block: 114 
+Data size of chrII is 90 .
+Total blocks in chrII: 4148
+Number of valid block: 76 
+Data size of chrIII is 280 .
+Total blocks in chrIII: 1706
+Number of valid block: 231 
+Data size of chrIV is 72 .
+Total blocks in chrIV: 7436
+Number of valid block: 61 
+Data size of chrV is 70 .
+Total blocks in chrV: 2950
+Number of valid block: 65 
+Data size of chrVI is 1 .
+Total blocks in chrVI: 1498
+Number of valid block: 1 
+Data size of chrVII is 177 .
+Total blocks in chrVII: 5403
+Number of valid block: 148 
+Data size of chrVIII is 9 .
+Total blocks in chrVIII: 2715
+Number of valid block: 6 
+Data size of chrIX is 200 .
+Total blocks in chrIX: 2249
+Number of valid block: 142 
+Data size of chrX is 222 .
+Total blocks in chrX: 3771
+Number of valid block: 188 
+Data size of chrXI is 122 .
+Total blocks in chrXI: 3456
+Number of valid block: 104 
+Data size of chrXII is 192 .
+Total blocks in chrXII: 5272
+Number of valid block: 176 
+Data size of chrXIII is 259 .
+Total blocks in chrXIII: 4619
+Number of valid block: 226 
+Data size of chrXIV is 329 .
+Total blocks in chrXIV: 3961
+Number of valid block: 274 
+Data size of chrXV is 76 .
+Total blocks in chrXV: 5270
+Number of valid block: 63 
+Data size of chrXVI is 3 .
+Total blocks in chrXVI: 4735
+Number of valid block: 3 
+
+Number of missing data: 12 
+Number of imported chromosomes is 16 .
+Data size of chrI is 135 .
+Total blocks in chrI: 1145
+Number of valid block: 114 
+Data size of chrII is 90 .
+Total blocks in chrII: 4148
+Number of valid block: 76 
+Data size of chrIII is 280 .
+Total blocks in chrIII: 1706
+Number of valid block: 231 
+Data size of chrIV is 72 .
+Total blocks in chrIV: 7436
+Number of valid block: 61 
+Data size of chrV is 70 .
+Total blocks in chrV: 2950
+Number of valid block: 65 
+Data size of chrVI is 1 .
+Total blocks in chrVI: 1498
+Number of valid block: 1 
+Data size of chrVII is 177 .
+Total blocks in chrVII: 5403
+Number of valid block: 148 
+Data size of chrVIII is 9 .
+Total blocks in chrVIII: 2715
+Number of valid block: 6 
+Data size of chrIX is 200 .
+Total blocks in chrIX: 2249
+Number of valid block: 142 
+Data size of chrX is 222 .
+Total blocks in chrX: 3771
+Number of valid block: 188 
+Data size of chrXI is 122 .
+Total blocks in chrXI: 3456
+Number of valid block: 104 
+Data size of chrXII is 192 .
+Total blocks in chrXII: 5272
+Number of valid block: 176 
+Data size of chrXIII is 259 .
+Total blocks in chrXIII: 4619
+Number of valid block: 226 
+Data size of chrXIV is 329 .
+Total blocks in chrXIV: 3961
+Number of valid block: 274 
+Data size of chrXV is 76 .
+Total blocks in chrXV: 5270
+Number of valid block: 63 
+Data size of chrXVI is 3 .
+Total blocks in chrXVI: 4735
+Number of valid block: 3 
+
+Number of missing data: 12 
+Number of imported chromosomes is 16 .
+Data size of chrI is 135 .
+Total blocks in chrI: 1145
+Number of valid block: 114 
+Data size of chrII is 90 .
+Total blocks in chrII: 4148
+Number of valid block: 76 
+Data size of chrIII is 280 .
+Total blocks in chrIII: 1706
+Number of valid block: 231 
+Data size of chrIV is 72 .
+Total blocks in chrIV: 7436
+Number of valid block: 61 
+Data size of chrV is 70 .
+Total blocks in chrV: 2950
+Number of valid block: 65 
+Data size of chrVI is 1 .
+Total blocks in chrVI: 1498
+Number of valid block: 1 
+Data size of chrVII is 177 .
+Total blocks in chrVII: 5403
+Number of valid block: 148 
+Data size of chrVIII is 9 .
+Total blocks in chrVIII: 2715
+Number of valid block: 6 
+Data size of chrIX is 200 .
+Total blocks in chrIX: 2249
+Number of valid block: 142 
+Data size of chrX is 222 .
+Total blocks in chrX: 3771
+Number of valid block: 188 
+Data size of chrXI is 122 .
+Total blocks in chrXI: 3456
+Number of valid block: 104 
+Data size of chrXII is 192 .
+Total blocks in chrXII: 5272
+Number of valid block: 176 
+Data size of chrXIII is 259 .
+Total blocks in chrXIII: 4619
+Number of valid block: 226 
+Data size of chrXIV is 329 .
+Total blocks in chrXIV: 3961
+Number of valid block: 274 
+Data size of chrXV is 76 .
+Total blocks in chrXV: 5270
+Number of valid block: 63 
+Data size of chrXVI is 3 .
+Total blocks in chrXVI: 4735
+Number of valid block: 3 
+
+Number of missing data: 12 
+Number of imported chromosomes is 16 .
+Data size of chrI is 135 .
+Total blocks in chrI: 1145
+Number of valid block: 114 
+Data size of chrII is 90 .
+Total blocks in chrII: 4148
+Number of valid block: 76 
+Data size of chrIII is 280 .
+Total blocks in chrIII: 1706
+Number of valid block: 231 
+Data size of chrIV is 72 .
+Total blocks in chrIV: 7436
+Number of valid block: 61 
+Data size of chrV is 70 .
+Total blocks in chrV: 2950
+Number of valid block: 65 
+Data size of chrVI is 1 .
+Total blocks in chrVI: 1498
+Number of valid block: 1 
+Data size of chrVII is 177 .
+Total blocks in chrVII: 5403
+Number of valid block: 148 
+Data size of chrVIII is 9 .
+Total blocks in chrVIII: 2715
+Number of valid block: 6 
+Data size of chrIX is 200 .
+Total blocks in chrIX: 2249
+Number of valid block: 142 
+Data size of chrX is 222 .
+Total blocks in chrX: 3771
+Number of valid block: 188 
+Data size of chrXI is 122 .
+Total blocks in chrXI: 3456
+Number of valid block: 104 
+Data size of chrXII is 192 .
+Total blocks in chrXII: 5272
+Number of valid block: 176 
+Data size of chrXIII is 259 .
+Total blocks in chrXIII: 4619
+Number of valid block: 226 
+Data size of chrXIV is 329 .
+Total blocks in chrXIV: 3961
+Number of valid block: 274 
+Data size of chrXV is 76 .
+Total blocks in chrXV: 5270
+Number of valid block: 63 
+Data size of chrXVI is 3 .
+Total blocks in chrXVI: 4735
+Number of valid block: 3 
+
+Theoretical threshold is ± 0.0039 .
+Export data to result/result1.xls 
+Writing
+
+data size of chrI is 781 
+data size of chrII is 3750 
+data size of chrIII is 1535 
+data size of chrIV is 329 
+data size of chrV is 1735 
+data size of chrVII is 3172 
+Processing sample pair: D4-D5-DBVPG6044
+Filtering out loci which were not genotyped in both samples...
+Number of loci in the merged file: 8344
+Fraction of loci retained: 0.9998802
+Read global parameters from /home/ltattini/prog/evolrec-ae/gpw-pm-1/lib/da-brm-config.txt .
+result  already exists.
+Parameter Design=A
+Parameter n1=3e+05
+Parameter n2=3e+05
+Parameter t=1
+Parameter ua=4.26
+Parameter UNIT=1000
+Parameter DEG=2
+Parameter BLK=0.2
+Parameter MIN=10
+Parameter MINVALID=10
+Parameter Result1_File=result/result1.xls
+Parameter Result2_File=result/result2.xls
+
+Number of missing data: 311 
+Number of imported chromosomes is 16 .
+Data size of chrI is 513 .
+Total blocks in chrI: 1145
+Number of valid block: 314 
+Data size of chrII is 402 .
+Total blocks in chrII: 4148
+Number of valid block: 261 
+Data size of chrIII is 1095 .
+Total blocks in chrIII: 1706
+Number of valid block: 593 
+Data size of chrIV is 182 .
+Total blocks in chrIV: 7436
+Number of valid block: 141 
+Data size of chrV is 240 .
+Total blocks in chrV: 2950
+Number of valid block: 167 
+Data size of chrVI is 0 .
+Data size of chrVII is 524 .
+Total blocks in chrVII: 5403
+Number of valid block: 376 
+Data size of chrVIII is 159 .
+Total blocks in chrVIII: 2715
+Number of valid block: 65 
+Data size of chrIX is 585 .
+Total blocks in chrIX: 2249
+Number of valid block: 384 
+Data size of chrX is 655 .
+Total blocks in chrX: 3771
+Number of valid block: 449 
+Data size of chrXI is 594 .
+Total blocks in chrXI: 3456
+Number of valid block: 398 
+Data size of chrXII is 930 .
+Total blocks in chrXII: 5272
+Number of valid block: 546 
+Data size of chrXIII is 714 .
+Total blocks in chrXIII: 4619
+Number of valid block: 520 
+Data size of chrXIV is 1131 .
+Total blocks in chrXIV: 3961
+Number of valid block: 800 
+Data size of chrXV is 278 .
+Total blocks in chrXV: 5270
+Number of valid block: 171 
+Data size of chrXVI is 16 .
+Total blocks in chrXVI: 4735
+Number of valid block: 10 
+
+Number of missing data: 311 
+Number of imported chromosomes is 16 .
+Data size of chrI is 513 .
+Total blocks in chrI: 1145
+Number of valid block: 314 
+Data size of chrII is 402 .
+Total blocks in chrII: 4148
+Number of valid block: 261 
+Data size of chrIII is 1095 .
+Total blocks in chrIII: 1706
+Number of valid block: 592 
+Data size of chrIV is 182 .
+Total blocks in chrIV: 7436
+Number of valid block: 141 
+Data size of chrV is 240 .
+Total blocks in chrV: 2950
+Number of valid block: 167 
+Data size of chrVI is 0 .
+Data size of chrVII is 524 .
+Total blocks in chrVII: 5403
+Number of valid block: 376 
+Data size of chrVIII is 159 .
+Total blocks in chrVIII: 2715
+Number of valid block: 65 
+Data size of chrIX is 585 .
+Total blocks in chrIX: 2249
+Number of valid block: 384 
+Data size of chrX is 655 .
+Total blocks in chrX: 3771
+Number of valid block: 449 
+Data size of chrXI is 594 .
+Total blocks in chrXI: 3456
+Number of valid block: 398 
+Data size of chrXII is 930 .
+Total blocks in chrXII: 5272
+Number of valid block: 546 
+Data size of chrXIII is 714 .
+Total blocks in chrXIII: 4619
+Number of valid block: 520 
+Data size of chrXIV is 1131 .
+Total blocks in chrXIV: 3961
+Number of valid block: 800 
+Data size of chrXV is 278 .
+Total blocks in chrXV: 5270
+Number of valid block: 171 
+Data size of chrXVI is 16 .
+Total blocks in chrXVI: 4735
+Number of valid block: 10 
+
+Number of missing data: 311 
+Number of imported chromosomes is 16 .
+Data size of chrI is 513 .
+Total blocks in chrI: 1145
+Number of valid block: 314 
+Data size of chrII is 402 .
+Total blocks in chrII: 4148
+Number of valid block: 261 
+Data size of chrIII is 1095 .
+Total blocks in chrIII: 1706
+Number of valid block: 592 
+Data size of chrIV is 182 .
+Total blocks in chrIV: 7436
+Number of valid block: 141 
+Data size of chrV is 240 .
+Total blocks in chrV: 2950
+Number of valid block: 167 
+Data size of chrVI is 0 .
+Data size of chrVII is 524 .
+Total blocks in chrVII: 5403
+Number of valid block: 376 
+Data size of chrVIII is 159 .
+Total blocks in chrVIII: 2715
+Number of valid block: 65 
+Data size of chrIX is 585 .
+Total blocks in chrIX: 2249
+Number of valid block: 384 
+Data size of chrX is 655 .
+Total blocks in chrX: 3771
+Number of valid block: 449 
+Data size of chrXI is 594 .
+Total blocks in chrXI: 3456
+Number of valid block: 398 
+Data size of chrXII is 930 .
+Total blocks in chrXII: 5272
+Number of valid block: 546 
+Data size of chrXIII is 714 .
+Total blocks in chrXIII: 4619
+Number of valid block: 520 
+Data size of chrXIV is 1131 .
+Total blocks in chrXIV: 3961
+Number of valid block: 800 
+Data size of chrXV is 278 .
+Total blocks in chrXV: 5270
+Number of valid block: 171 
+Data size of chrXVI is 16 .
+Total blocks in chrXVI: 4735
+Number of valid block: 10 
+
+Number of missing data: 311 
+Number of imported chromosomes is 16 .
+Data size of chrI is 513 .
+Total blocks in chrI: 1145
+Number of valid block: 314 
+Data size of chrII is 402 .
+Total blocks in chrII: 4148
+Number of valid block: 261 
+Data size of chrIII is 1095 .
+Total blocks in chrIII: 1706
+Number of valid block: 592 
+Data size of chrIV is 182 .
+Total blocks in chrIV: 7436
+Number of valid block: 141 
+Data size of chrV is 240 .
+Total blocks in chrV: 2950
+Number of valid block: 167 
+Data size of chrVI is 0 .
+Data size of chrVII is 524 .
+Total blocks in chrVII: 5403
+Number of valid block: 376 
+Data size of chrVIII is 159 .
+Total blocks in chrVIII: 2715
+Number of valid block: 65 
+Data size of chrIX is 585 .
+Total blocks in chrIX: 2249
+Number of valid block: 384 
+Data size of chrX is 655 .
+Total blocks in chrX: 3771
+Number of valid block: 449 
+Data size of chrXI is 594 .
+Total blocks in chrXI: 3456
+Number of valid block: 398 
+Data size of chrXII is 930 .
+Total blocks in chrXII: 5272
+Number of valid block: 546 
+Data size of chrXIII is 714 .
+Total blocks in chrXIII: 4619
+Number of valid block: 520 
+Data size of chrXIV is 1131 .
+Total blocks in chrXIV: 3961
+Number of valid block: 800 
+Data size of chrXV is 278 .
+Total blocks in chrXV: 5270
+Number of valid block: 171 
+Data size of chrXVI is 16 .
+Total blocks in chrXVI: 4735
+Number of valid block: 10 
+
+Theoretical threshold is ± 0.0039 .
+Export data to result/result1.xls 
+Writing
+
+data size of chrI is 972 
+data size of chrII is 2766 
+Processing sample pair: D4-D5-DBVPG6765
+Filtering out loci which were not genotyped in both samples...
+Number of loci in the merged file: 43642
+Fraction of loci retained: 0.9999771
+Read global parameters from /home/ltattini/prog/evolrec-ae/gpw-pm-1/lib/da-brm-config.txt .
+result  already exists.
+Parameter Design=A
+Parameter n1=3e+05
+Parameter n2=3e+05
+Parameter t=1
+Parameter ua=4.26
+Parameter UNIT=1000
+Parameter DEG=2
+Parameter BLK=0.2
+Parameter MIN=10
+Parameter MINVALID=10
+Parameter Result1_File=result/result1.xls
+Parameter Result2_File=result/result2.xls
+
+Number of missing data: 1357 
+Number of imported chromosomes is 16 .
+Data size of chrI is 786 .
+Total blocks in chrI: 1145
+Number of valid block: 339 
+Data size of chrII is 2879 .
+Total blocks in chrII: 4148
+Number of valid block: 1768 
+Data size of chrIII is 758 .
+Total blocks in chrIII: 1706
+Number of valid block: 476 
+Data size of chrIV is 5872 .
+Total blocks in chrIV: 7436
+Number of valid block: 3281 
+Data size of chrV is 2199 .
+Total blocks in chrV: 2950
+Number of valid block: 1272 
+Data size of chrVI is 1009 .
+Total blocks in chrVI: 1498
+Number of valid block: 579 
+Data size of chrVII is 3916 .
+Total blocks in chrVII: 5403
+Number of valid block: 2188 
+Data size of chrVIII is 1792 .
+Total blocks in chrVIII: 2715
+Number of valid block: 1086 
+Data size of chrIX is 1494 .
+Total blocks in chrIX: 2249
+Number of valid block: 781 
+Data size of chrX is 2606 .
+Total blocks in chrX: 3771
+Number of valid block: 1558 
+Data size of chrXI is 2361 .
+Total blocks in chrXI: 3456
+Number of valid block: 1423 
+Data size of chrXII is 2998 .
+Total blocks in chrXII: 5272
+Number of valid block: 1900 
+Data size of chrXIII is 2885 .
+Total blocks in chrXIII: 4619
+Number of valid block: 1752 
+Data size of chrXIV is 2659 .
+Total blocks in chrXIV: 3961
+Number of valid block: 1590 
+Data size of chrXV is 4181 .
+Total blocks in chrXV: 5270
+Number of valid block: 2442 
+Data size of chrXVI is 3476 .
+Total blocks in chrXVI: 4735
+Number of valid block: 2069 
+
+Number of missing data: 1357 
+Number of imported chromosomes is 16 .
+Data size of chrI is 786 .
+Total blocks in chrI: 1145
+Number of valid block: 339 
+Data size of chrII is 2879 .
+Total blocks in chrII: 4148
+Number of valid block: 1768 
+Data size of chrIII is 758 .
+Total blocks in chrIII: 1706
+Number of valid block: 476 
+Data size of chrIV is 5872 .
+Total blocks in chrIV: 7436
+Number of valid block: 3281 
+Data size of chrV is 2199 .
+Total blocks in chrV: 2950
+Number of valid block: 1272 
+Data size of chrVI is 1009 .
+Total blocks in chrVI: 1498
+Number of valid block: 579 
+Data size of chrVII is 3916 .
+Total blocks in chrVII: 5403
+Number of valid block: 2188 
+Data size of chrVIII is 1792 .
+Total blocks in chrVIII: 2715
+Number of valid block: 1086 
+Data size of chrIX is 1494 .
+Total blocks in chrIX: 2249
+Number of valid block: 781 
+Data size of chrX is 2606 .
+Total blocks in chrX: 3771
+Number of valid block: 1558 
+Data size of chrXI is 2361 .
+Total blocks in chrXI: 3456
+Number of valid block: 1423 
+Data size of chrXII is 2998 .
+Total blocks in chrXII: 5272
+Number of valid block: 1900 
+Data size of chrXIII is 2885 .
+Total blocks in chrXIII: 4619
+Number of valid block: 1752 
+Data size of chrXIV is 2659 .
+Total blocks in chrXIV: 3961
+Number of valid block: 1590 
+Data size of chrXV is 4181 .
+Total blocks in chrXV: 5270
+Number of valid block: 2442 
+Data size of chrXVI is 3476 .
+Total blocks in chrXVI: 4735
+Number of valid block: 2069 
+
+Number of missing data: 1357 
+Number of imported chromosomes is 16 .
+Data size of chrI is 786 .
+Total blocks in chrI: 1145
+Number of valid block: 339 
+Data size of chrII is 2879 .
+Total blocks in chrII: 4148
+Number of valid block: 1768 
+Data size of chrIII is 758 .
+Total blocks in chrIII: 1706
+Number of valid block: 476 
+Data size of chrIV is 5872 .
+Total blocks in chrIV: 7436
+Number of valid block: 3281 
+Data size of chrV is 2199 .
+Total blocks in chrV: 2950
+Number of valid block: 1272 
+Data size of chrVI is 1009 .
+Total blocks in chrVI: 1498
+Number of valid block: 579 
+Data size of chrVII is 3916 .
+Total blocks in chrVII: 5403
+Number of valid block: 2188 
+Data size of chrVIII is 1792 .
+Total blocks in chrVIII: 2715
+Number of valid block: 1086 
+Data size of chrIX is 1494 .
+Total blocks in chrIX: 2249
+Number of valid block: 781 
+Data size of chrX is 2606 .
+Total blocks in chrX: 3771
+Number of valid block: 1558 
+Data size of chrXI is 2361 .
+Total blocks in chrXI: 3456
+Number of valid block: 1423 
+Data size of chrXII is 2998 .
+Total blocks in chrXII: 5272
+Number of valid block: 1900 
+Data size of chrXIII is 2885 .
+Total blocks in chrXIII: 4619
+Number of valid block: 1752 
+Data size of chrXIV is 2659 .
+Total blocks in chrXIV: 3961
+Number of valid block: 1590 
+Data size of chrXV is 4181 .
+Total blocks in chrXV: 5270
+Number of valid block: 2442 
+Data size of chrXVI is 3476 .
+Total blocks in chrXVI: 4735
+Number of valid block: 2069 
+
+Number of missing data: 1357 
+Number of imported chromosomes is 16 .
+Data size of chrI is 786 .
+Total blocks in chrI: 1145
+Number of valid block: 339 
+Data size of chrII is 2879 .
+Total blocks in chrII: 4148
+Number of valid block: 1768 
+Data size of chrIII is 758 .
+Total blocks in chrIII: 1706
+Number of valid block: 476 
+Data size of chrIV is 5872 .
+Total blocks in chrIV: 7436
+Number of valid block: 3281 
+Data size of chrV is 2199 .
+Total blocks in chrV: 2950
+Number of valid block: 1272 
+Data size of chrVI is 1009 .
+Total blocks in chrVI: 1498
+Number of valid block: 579 
+Data size of chrVII is 3916 .
+Total blocks in chrVII: 5403
+Number of valid block: 2188 
+Data size of chrVIII is 1792 .
+Total blocks in chrVIII: 2715
+Number of valid block: 1086 
+Data size of chrIX is 1494 .
+Total blocks in chrIX: 2249
+Number of valid block: 781 
+Data size of chrX is 2606 .
+Total blocks in chrX: 3771
+Number of valid block: 1558 
+Data size of chrXI is 2361 .
+Total blocks in chrXI: 3456
+Number of valid block: 1423 
+Data size of chrXII is 2998 .
+Total blocks in chrXII: 5272
+Number of valid block: 1900 
+Data size of chrXIII is 2885 .
+Total blocks in chrXIII: 4619
+Number of valid block: 1752 
+Data size of chrXIV is 2659 .
+Total blocks in chrXIV: 3961
+Number of valid block: 1590 
+Data size of chrXV is 4181 .
+Total blocks in chrXV: 5270
+Number of valid block: 2442 
+Data size of chrXVI is 3476 .
+Total blocks in chrXVI: 4735
+Number of valid block: 2069 
+
+Theoretical threshold is ± 0.0039 .
+Export data to result/result1.xls 
+Writing
+
+data size of chrI is 1080 
+data size of chrII is 3984 
+data size of chrIII is 1699 
+data size of chrIV is 7400 
+data size of chrV is 2844 
+data size of chrVI is 1439 
+data size of chrVII is 5319 
+data size of chrVIII is 2654 
+data size of chrIX is 2165 
+data size of chrX is 3562 
+data size of chrXI is 3414 
+data size of chrXII is 5242 
+data size of chrXIII is 4603 
+data size of chrXIV is 3924 
+data size of chrXV is 5228 
+data size of chrXVI is 4665 
+   user  system elapsed 
+ 44.208   6.969  51.180 
+finished.
+Processing sample pair: D4-D5-Y12
+Filtering out loci which were not genotyped in both samples...
+Number of loci in the merged file: 24496
+Fraction of loci retained: 0.9998775
+Read global parameters from /home/ltattini/prog/evolrec-ae/gpw-pm-1/lib/da-brm-config.txt .
+result  already exists.
+Parameter Design=A
+Parameter n1=3e+05
+Parameter n2=3e+05
+Parameter t=1
+Parameter ua=4.26
+Parameter UNIT=1000
+Parameter DEG=2
+Parameter BLK=0.2
+Parameter MIN=10
+Parameter MINVALID=10
+Parameter Result1_File=result/result1.xls
+Parameter Result2_File=result/result2.xls
+
+Number of missing data: 1086 
+Number of imported chromosomes is 16 .
+Data size of chrI is 393 .
+Total blocks in chrI: 1145
+Number of valid block: 239 
+Data size of chrII is 1516 .
+Total blocks in chrII: 4148
+Number of valid block: 1106 
+Data size of chrIII is 716 .
+Total blocks in chrIII: 1706
+Number of valid block: 411 
+Data size of chrIV is 2842 .
+Total blocks in chrIV: 7436
+Number of valid block: 2124 
+Data size of chrV is 1099 .
+Total blocks in chrV: 2950
+Number of valid block: 782 
+Data size of chrVI is 970 .
+Total blocks in chrVI: 1498
+Number of valid block: 478 
+Data size of chrVII is 2503 .
+Total blocks in chrVII: 5403
+Number of valid block: 1597 
+Data size of chrVIII is 1317 .
+Total blocks in chrVIII: 2715
+Number of valid block: 819 
+Data size of chrIX is 964 .
+Total blocks in chrIX: 2249
+Number of valid block: 615 
+Data size of chrX is 1318 .
+Total blocks in chrX: 3771
+Number of valid block: 920 
+Data size of chrXI is 998 .
+Total blocks in chrXI: 3456
+Number of valid block: 739 
+Data size of chrXII is 1658 .
+Total blocks in chrXII: 5272
+Number of valid block: 1284 
+Data size of chrXIII is 1539 .
+Total blocks in chrXIII: 4619
+Number of valid block: 1172 
+Data size of chrXIV is 1204 .
+Total blocks in chrXIV: 3961
+Number of valid block: 854 
+Data size of chrXV is 2138 .
+Total blocks in chrXV: 5270
+Number of valid block: 1515 
+Data size of chrXVI is 1778 .
+Total blocks in chrXVI: 4735
+Number of valid block: 1326 
+
+Number of missing data: 1086 
+Number of imported chromosomes is 16 .
+Data size of chrI is 393 .
+Total blocks in chrI: 1145
+Number of valid block: 239 
+Data size of chrII is 1516 .
+Total blocks in chrII: 4148
+Number of valid block: 1106 
+Data size of chrIII is 716 .
+Total blocks in chrIII: 1706
+Number of valid block: 411 
+Data size of chrIV is 2842 .
+Total blocks in chrIV: 7436
+Number of valid block: 2124 
+Data size of chrV is 1099 .
+Total blocks in chrV: 2950
+Number of valid block: 782 
+Data size of chrVI is 970 .
+Total blocks in chrVI: 1498
+Number of valid block: 478 
+Data size of chrVII is 2503 .
+Total blocks in chrVII: 5403
+Number of valid block: 1597 
+Data size of chrVIII is 1317 .
+Total blocks in chrVIII: 2715
+Number of valid block: 819 
+Data size of chrIX is 964 .
+Total blocks in chrIX: 2249
+Number of valid block: 615 
+Data size of chrX is 1318 .
+Total blocks in chrX: 3771
+Number of valid block: 920 
+Data size of chrXI is 998 .
+Total blocks in chrXI: 3456
+Number of valid block: 739 
+Data size of chrXII is 1658 .
+Total blocks in chrXII: 5272
+Number of valid block: 1284 
+Data size of chrXIII is 1539 .
+Total blocks in chrXIII: 4619
+Number of valid block: 1172 
+Data size of chrXIV is 1204 .
+Total blocks in chrXIV: 3961
+Number of valid block: 854 
+Data size of chrXV is 2138 .
+Total blocks in chrXV: 5270
+Number of valid block: 1515 
+Data size of chrXVI is 1778 .
+Total blocks in chrXVI: 4735
+Number of valid block: 1326 
+
+Number of missing data: 1086 
+Number of imported chromosomes is 16 .
+Data size of chrI is 393 .
+Total blocks in chrI: 1145
+Number of valid block: 239 
+Data size of chrII is 1516 .
+Total blocks in chrII: 4148
+Number of valid block: 1106 
+Data size of chrIII is 716 .
+Total blocks in chrIII: 1706
+Number of valid block: 411 
+Data size of chrIV is 2842 .
+Total blocks in chrIV: 7436
+Number of valid block: 2124 
+Data size of chrV is 1099 .
+Total blocks in chrV: 2950
+Number of valid block: 782 
+Data size of chrVI is 970 .
+Total blocks in chrVI: 1498
+Number of valid block: 478 
+Data size of chrVII is 2503 .
+Total blocks in chrVII: 5403
+Number of valid block: 1597 
+Data size of chrVIII is 1317 .
+Total blocks in chrVIII: 2715
+Number of valid block: 819 
+Data size of chrIX is 964 .
+Total blocks in chrIX: 2249
+Number of valid block: 615 
+Data size of chrX is 1318 .
+Total blocks in chrX: 3771
+Number of valid block: 920 
+Data size of chrXI is 998 .
+Total blocks in chrXI: 3456
+Number of valid block: 739 
+Data size of chrXII is 1658 .
+Total blocks in chrXII: 5272
+Number of valid block: 1284 
+Data size of chrXIII is 1539 .
+Total blocks in chrXIII: 4619
+Number of valid block: 1172 
+Data size of chrXIV is 1204 .
+Total blocks in chrXIV: 3961
+Number of valid block: 854 
+Data size of chrXV is 2138 .
+Total blocks in chrXV: 5270
+Number of valid block: 1515 
+Data size of chrXVI is 1778 .
+Total blocks in chrXVI: 4735
+Number of valid block: 1326 
+
+Number of missing data: 1086 
+Number of imported chromosomes is 16 .
+Data size of chrI is 393 .
+Total blocks in chrI: 1145
+Number of valid block: 239 
+Data size of chrII is 1516 .
+Total blocks in chrII: 4148
+Number of valid block: 1106 
+Data size of chrIII is 716 .
+Total blocks in chrIII: 1706
+Number of valid block: 411 
+Data size of chrIV is 2842 .
+Total blocks in chrIV: 7436
+Number of valid block: 2124 
+Data size of chrV is 1099 .
+Total blocks in chrV: 2950
+Number of valid block: 782 
+Data size of chrVI is 970 .
+Total blocks in chrVI: 1498
+Number of valid block: 478 
+Data size of chrVII is 2503 .
+Total blocks in chrVII: 5403
+Number of valid block: 1597 
+Data size of chrVIII is 1317 .
+Total blocks in chrVIII: 2715
+Number of valid block: 819 
+Data size of chrIX is 964 .
+Total blocks in chrIX: 2249
+Number of valid block: 615 
+Data size of chrX is 1318 .
+Total blocks in chrX: 3771
+Number of valid block: 920 
+Data size of chrXI is 998 .
+Total blocks in chrXI: 3456
+Number of valid block: 739 
+Data size of chrXII is 1658 .
+Total blocks in chrXII: 5272
+Number of valid block: 1284 
+Data size of chrXIII is 1539 .
+Total blocks in chrXIII: 4619
+Number of valid block: 1172 
+Data size of chrXIV is 1204 .
+Total blocks in chrXIV: 3961
+Number of valid block: 854 
+Data size of chrXV is 2138 .
+Total blocks in chrXV: 5270
+Number of valid block: 1515 
+Data size of chrXVI is 1778 .
+Total blocks in chrXVI: 4735
+Number of valid block: 1326 
+
+Theoretical threshold is ± 0.0039 .
+Export data to result/result1.xls 
+Writing
+
+data size of chrI is 1005 
+data size of chrII is 4014 
+data size of chrIII is 1664 
+data size of chrIV is 7398 
+data size of chrV is 2867 
+data size of chrVI is 1372 
+data size of chrVII is 5370 
+data size of chrVIII is 2712 
+data size of chrIX is 2043 
+data size of chrX is 3571 
+data size of chrXI is 3414 
+data size of chrXII is 5232 
+data size of chrXIII is 4603 
+data size of chrXIV is 3871 
+data size of chrXV is 5191 
+data size of chrXVI is 4564 
+   user  system elapsed 
+ 26.797   4.577  31.378 
+finished.
+Processing sample pair: D4-D5-YPS128
+Filtering out loci which were not genotyped in both samples...
+Number of loci in the merged file: 19931
+Fraction of loci retained: 1
+Read global parameters from /home/ltattini/prog/evolrec-ae/gpw-pm-1/lib/da-brm-config.txt .
+result  already exists.
+Parameter Design=A
+Parameter n1=3e+05
+Parameter n2=3e+05
+Parameter t=1
+Parameter ua=4.26
+Parameter UNIT=1000
+Parameter DEG=2
+Parameter BLK=0.2
+Parameter MIN=10
+Parameter MINVALID=10
+Parameter Result1_File=result/result1.xls
+Parameter Result2_File=result/result2.xls
+
+Number of missing data: 760 
+Number of imported chromosomes is 16 .
+Data size of chrI is 733 .
+Total blocks in chrI: 1145
+Number of valid block: 296 
+Data size of chrII is 1262 .
+Total blocks in chrII: 4148
+Number of valid block: 874 
+Data size of chrIII is 514 .
+Total blocks in chrIII: 1706
+Number of valid block: 365 
+Data size of chrIV is 1983 .
+Total blocks in chrIV: 7436
+Number of valid block: 1496 
+Data size of chrV is 770 .
+Total blocks in chrV: 2950
+Number of valid block: 555 
+Data size of chrVI is 756 .
+Total blocks in chrVI: 1498
+Number of valid block: 399 
+Data size of chrVII is 1392 .
+Total blocks in chrVII: 5403
+Number of valid block: 1072 
+Data size of chrVIII is 1391 .
+Total blocks in chrVIII: 2715
+Number of valid block: 650 
+Data size of chrIX is 690 .
+Total blocks in chrIX: 2249
+Number of valid block: 468 
+Data size of chrX is 1029 .
+Total blocks in chrX: 3771
+Number of valid block: 685 
+Data size of chrXI is 953 .
+Total blocks in chrXI: 3456
+Number of valid block: 723 
+Data size of chrXII is 1692 .
+Total blocks in chrXII: 5272
+Number of valid block: 1064 
+Data size of chrXIII is 1738 .
+Total blocks in chrXIII: 4619
+Number of valid block: 997 
+Data size of chrXIV is 1168 .
+Total blocks in chrXIV: 3961
+Number of valid block: 790 
+Data size of chrXV is 1450 .
+Total blocks in chrXV: 5270
+Number of valid block: 1069 
+Data size of chrXVI is 1357 .
+Total blocks in chrXVI: 4735
+Number of valid block: 964 
+
+Number of missing data: 760 
+Number of imported chromosomes is 16 .
+Data size of chrI is 733 .
+Total blocks in chrI: 1145
+Number of valid block: 296 
+Data size of chrII is 1262 .
+Total blocks in chrII: 4148
+Number of valid block: 874 
+Data size of chrIII is 514 .
+Total blocks in chrIII: 1706
+Number of valid block: 365 
+Data size of chrIV is 1983 .
+Total blocks in chrIV: 7436
+Number of valid block: 1496 
+Data size of chrV is 770 .
+Total blocks in chrV: 2950
+Number of valid block: 555 
+Data size of chrVI is 756 .
+Total blocks in chrVI: 1498
+Number of valid block: 399 
+Data size of chrVII is 1392 .
+Total blocks in chrVII: 5403
+Number of valid block: 1072 
+Data size of chrVIII is 1391 .
+Total blocks in chrVIII: 2715
+Number of valid block: 650 
+Data size of chrIX is 690 .
+Total blocks in chrIX: 2249
+Number of valid block: 468 
+Data size of chrX is 1029 .
+Total blocks in chrX: 3771
+Number of valid block: 685 
+Data size of chrXI is 953 .
+Total blocks in chrXI: 3456
+Number of valid block: 723 
+Data size of chrXII is 1692 .
+Total blocks in chrXII: 5272
+Number of valid block: 1064 
+Data size of chrXIII is 1738 .
+Total blocks in chrXIII: 4619
+Number of valid block: 997 
+Data size of chrXIV is 1168 .
+Total blocks in chrXIV: 3961
+Number of valid block: 790 
+Data size of chrXV is 1450 .
+Total blocks in chrXV: 5270
+Number of valid block: 1069 
+Data size of chrXVI is 1357 .
+Total blocks in chrXVI: 4735
+Number of valid block: 964 
+
+Number of missing data: 760 
+Number of imported chromosomes is 16 .
+Data size of chrI is 733 .
+Total blocks in chrI: 1145
+Number of valid block: 296 
+Data size of chrII is 1262 .
+Total blocks in chrII: 4148
+Number of valid block: 874 
+Data size of chrIII is 514 .
+Total blocks in chrIII: 1706
+Number of valid block: 365 
+Data size of chrIV is 1983 .
+Total blocks in chrIV: 7436
+Number of valid block: 1496 
+Data size of chrV is 770 .
+Total blocks in chrV: 2950
+Number of valid block: 555 
+Data size of chrVI is 756 .
+Total blocks in chrVI: 1498
+Number of valid block: 399 
+Data size of chrVII is 1392 .
+Total blocks in chrVII: 5403
+Number of valid block: 1072 
+Data size of chrVIII is 1391 .
+Total blocks in chrVIII: 2715
+Number of valid block: 650 
+Data size of chrIX is 690 .
+Total blocks in chrIX: 2249
+Number of valid block: 468 
+Data size of chrX is 1029 .
+Total blocks in chrX: 3771
+Number of valid block: 685 
+Data size of chrXI is 953 .
+Total blocks in chrXI: 3456
+Number of valid block: 723 
+Data size of chrXII is 1692 .
+Total blocks in chrXII: 5272
+Number of valid block: 1064 
+Data size of chrXIII is 1738 .
+Total blocks in chrXIII: 4619
+Number of valid block: 997 
+Data size of chrXIV is 1168 .
+Total blocks in chrXIV: 3961
+Number of valid block: 790 
+Data size of chrXV is 1450 .
+Total blocks in chrXV: 5270
+Number of valid block: 1069 
+Data size of chrXVI is 1357 .
+Total blocks in chrXVI: 4735
+Number of valid block: 964 
+
+Number of missing data: 760 
+Number of imported chromosomes is 16 .
+Data size of chrI is 733 .
+Total blocks in chrI: 1145
+Number of valid block: 296 
+Data size of chrII is 1262 .
+Total blocks in chrII: 4148
+Number of valid block: 874 
+Data size of chrIII is 514 .
+Total blocks in chrIII: 1706
+Number of valid block: 365 
+Data size of chrIV is 1983 .
+Total blocks in chrIV: 7436
+Number of valid block: 1496 
+Data size of chrV is 770 .
+Total blocks in chrV: 2950
+Number of valid block: 555 
+Data size of chrVI is 756 .
+Total blocks in chrVI: 1498
+Number of valid block: 399 
+Data size of chrVII is 1392 .
+Total blocks in chrVII: 5403
+Number of valid block: 1072 
+Data size of chrVIII is 1391 .
+Total blocks in chrVIII: 2715
+Number of valid block: 650 
+Data size of chrIX is 690 .
+Total blocks in chrIX: 2249
+Number of valid block: 468 
+Data size of chrX is 1029 .
+Total blocks in chrX: 3771
+Number of valid block: 685 
+Data size of chrXI is 953 .
+Total blocks in chrXI: 3456
+Number of valid block: 723 
+Data size of chrXII is 1692 .
+Total blocks in chrXII: 5272
+Number of valid block: 1064 
+Data size of chrXIII is 1738 .
+Total blocks in chrXIII: 4619
+Number of valid block: 997 
+Data size of chrXIV is 1168 .
+Total blocks in chrXIV: 3961
+Number of valid block: 790 
+Data size of chrXV is 1450 .
+Total blocks in chrXV: 5270
+Number of valid block: 1069 
+Data size of chrXVI is 1357 .
+Total blocks in chrXVI: 4735
+Number of valid block: 964 
+
+Theoretical threshold is ± 0.0039 .
+Export data to result/result1.xls 
+Writing
+
+data size of chrI is 1111 
+data size of chrII is 4004 
+data size of chrIII is 1650 
+data size of chrIV is 7429 
+data size of chrV is 2845 
+data size of chrVI is 1387 
+data size of chrVII is 5373 
+data size of chrVIII is 2703 
+data size of chrIX is 2062 
+data size of chrX is 3680 
+data size of chrXI is 3375 
+data size of chrXII is 5241 
+data size of chrXIII is 4603 
+data size of chrXIV is 3957 
+data size of chrXV is 5238 
+data size of chrXVI is 4694 
+   user  system elapsed 
+ 22.987   3.650  26.640 
+finished.
+Processing sample pair: D7-D8-SK1
+Filtering out loci which were not genotyped in both samples...
+Number of loci in the merged file: 2251
+Fraction of loci retained: 1
+Read global parameters from /home/ltattini/prog/evolrec-ae/gpw-pm-1/lib/da-brm-config.txt .
+result  already exists.
+Parameter Design=A
+Parameter n1=3e+05
+Parameter n2=3e+05
+Parameter t=1
+Parameter ua=4.26
+Parameter UNIT=1000
+Parameter DEG=2
+Parameter BLK=0.2
+Parameter MIN=10
+Parameter MINVALID=10
+Parameter Result1_File=result/result1.xls
+Parameter Result2_File=result/result2.xls
+
+Number of missing data: 15 
+Number of imported chromosomes is 16 .
+Data size of chrI is 135 .
+Total blocks in chrI: 1145
+Number of valid block: 114 
+Data size of chrII is 90 .
+Total blocks in chrII: 4148
+Number of valid block: 76 
+Data size of chrIII is 280 .
+Total blocks in chrIII: 1706
+Number of valid block: 231 
+Data size of chrIV is 72 .
+Total blocks in chrIV: 7436
+Number of valid block: 61 
+Data size of chrV is 70 .
+Total blocks in chrV: 2950
+Number of valid block: 65 
+Data size of chrVI is 1 .
+Total blocks in chrVI: 1498
+Number of valid block: 1 
+Data size of chrVII is 177 .
+Total blocks in chrVII: 5403
+Number of valid block: 148 
+Data size of chrVIII is 9 .
+Total blocks in chrVIII: 2715
+Number of valid block: 6 
+Data size of chrIX is 200 .
+Total blocks in chrIX: 2249
+Number of valid block: 142 
+Data size of chrX is 222 .
+Total blocks in chrX: 3771
+Number of valid block: 188 
+Data size of chrXI is 119 .
+Total blocks in chrXI: 3456
+Number of valid block: 103 
+Data size of chrXII is 192 .
+Total blocks in chrXII: 5272
+Number of valid block: 176 
+Data size of chrXIII is 259 .
+Total blocks in chrXIII: 4619
+Number of valid block: 226 
+Data size of chrXIV is 329 .
+Total blocks in chrXIV: 3961
+Number of valid block: 274 
+Data size of chrXV is 76 .
+Total blocks in chrXV: 5270
+Number of valid block: 63 
+Data size of chrXVI is 3 .
+Total blocks in chrXVI: 4735
+Number of valid block: 3 
+
+Number of missing data: 15 
+Number of imported chromosomes is 16 .
+Data size of chrI is 135 .
+Total blocks in chrI: 1145
+Number of valid block: 114 
+Data size of chrII is 90 .
+Total blocks in chrII: 4148
+Number of valid block: 76 
+Data size of chrIII is 280 .
+Total blocks in chrIII: 1706
+Number of valid block: 231 
+Data size of chrIV is 72 .
+Total blocks in chrIV: 7436
+Number of valid block: 61 
+Data size of chrV is 70 .
+Total blocks in chrV: 2950
+Number of valid block: 65 
+Data size of chrVI is 1 .
+Total blocks in chrVI: 1498
+Number of valid block: 1 
+Data size of chrVII is 177 .
+Total blocks in chrVII: 5403
+Number of valid block: 148 
+Data size of chrVIII is 9 .
+Total blocks in chrVIII: 2715
+Number of valid block: 6 
+Data size of chrIX is 200 .
+Total blocks in chrIX: 2249
+Number of valid block: 142 
+Data size of chrX is 222 .
+Total blocks in chrX: 3771
+Number of valid block: 188 
+Data size of chrXI is 119 .
+Total blocks in chrXI: 3456
+Number of valid block: 103 
+Data size of chrXII is 192 .
+Total blocks in chrXII: 5272
+Number of valid block: 176 
+Data size of chrXIII is 259 .
+Total blocks in chrXIII: 4619
+Number of valid block: 226 
+Data size of chrXIV is 329 .
+Total blocks in chrXIV: 3961
+Number of valid block: 274 
+Data size of chrXV is 76 .
+Total blocks in chrXV: 5270
+Number of valid block: 63 
+Data size of chrXVI is 3 .
+Total blocks in chrXVI: 4735
+Number of valid block: 3 
+
+Number of missing data: 15 
+Number of imported chromosomes is 16 .
+Data size of chrI is 135 .
+Total blocks in chrI: 1145
+Number of valid block: 114 
+Data size of chrII is 90 .
+Total blocks in chrII: 4148
+Number of valid block: 76 
+Data size of chrIII is 280 .
+Total blocks in chrIII: 1706
+Number of valid block: 231 
+Data size of chrIV is 72 .
+Total blocks in chrIV: 7436
+Number of valid block: 61 
+Data size of chrV is 70 .
+Total blocks in chrV: 2950
+Number of valid block: 65 
+Data size of chrVI is 1 .
+Total blocks in chrVI: 1498
+Number of valid block: 1 
+Data size of chrVII is 177 .
+Total blocks in chrVII: 5403
+Number of valid block: 148 
+Data size of chrVIII is 9 .
+Total blocks in chrVIII: 2715
+Number of valid block: 6 
+Data size of chrIX is 200 .
+Total blocks in chrIX: 2249
+Number of valid block: 142 
+Data size of chrX is 222 .
+Total blocks in chrX: 3771
+Number of valid block: 188 
+Data size of chrXI is 119 .
+Total blocks in chrXI: 3456
+Number of valid block: 103 
+Data size of chrXII is 192 .
+Total blocks in chrXII: 5272
+Number of valid block: 176 
+Data size of chrXIII is 259 .
+Total blocks in chrXIII: 4619
+Number of valid block: 226 
+Data size of chrXIV is 329 .
+Total blocks in chrXIV: 3961
+Number of valid block: 274 
+Data size of chrXV is 76 .
+Total blocks in chrXV: 5270
+Number of valid block: 63 
+Data size of chrXVI is 3 .
+Total blocks in chrXVI: 4735
+Number of valid block: 3 
+
+Number of missing data: 15 
+Number of imported chromosomes is 16 .
+Data size of chrI is 135 .
+Total blocks in chrI: 1145
+Number of valid block: 114 
+Data size of chrII is 90 .
+Total blocks in chrII: 4148
+Number of valid block: 76 
+Data size of chrIII is 280 .
+Total blocks in chrIII: 1706
+Number of valid block: 231 
+Data size of chrIV is 72 .
+Total blocks in chrIV: 7436
+Number of valid block: 61 
+Data size of chrV is 70 .
+Total blocks in chrV: 2950
+Number of valid block: 65 
+Data size of chrVI is 1 .
+Total blocks in chrVI: 1498
+Number of valid block: 1 
+Data size of chrVII is 177 .
+Total blocks in chrVII: 5403
+Number of valid block: 148 
+Data size of chrVIII is 9 .
+Total blocks in chrVIII: 2715
+Number of valid block: 6 
+Data size of chrIX is 200 .
+Total blocks in chrIX: 2249
+Number of valid block: 142 
+Data size of chrX is 222 .
+Total blocks in chrX: 3771
+Number of valid block: 188 
+Data size of chrXI is 119 .
+Total blocks in chrXI: 3456
+Number of valid block: 103 
+Data size of chrXII is 192 .
+Total blocks in chrXII: 5272
+Number of valid block: 176 
+Data size of chrXIII is 259 .
+Total blocks in chrXIII: 4619
+Number of valid block: 226 
+Data size of chrXIV is 329 .
+Total blocks in chrXIV: 3961
+Number of valid block: 274 
+Data size of chrXV is 76 .
+Total blocks in chrXV: 5270
+Number of valid block: 63 
+Data size of chrXVI is 3 .
+Total blocks in chrXVI: 4735
+Number of valid block: 3 
+
+Theoretical threshold is ± 0.0039 .
+Export data to result/result1.xls 
+Writing
+
+data size of chrI is 781 
+data size of chrII is 3750 
+data size of chrIII is 1535 
+data size of chrIV is 329 
+data size of chrV is 1735 
+data size of chrVII is 3172 
+Processing sample pair: D7-D8-DBVPG6044
+Filtering out loci which were not genotyped in both samples...
+Number of loci in the merged file: 8343
+Fraction of loci retained: 1
+Read global parameters from /home/ltattini/prog/evolrec-ae/gpw-pm-1/lib/da-brm-config.txt .
+result  already exists.
+Parameter Design=A
+Parameter n1=3e+05
+Parameter n2=3e+05
+Parameter t=1
+Parameter ua=4.26
+Parameter UNIT=1000
+Parameter DEG=2
+Parameter BLK=0.2
+Parameter MIN=10
+Parameter MINVALID=10
+Parameter Result1_File=result/result1.xls
+Parameter Result2_File=result/result2.xls
+
+Number of missing data: 377 
+Number of imported chromosomes is 16 .
+Data size of chrI is 512 .
+Total blocks in chrI: 1145
+Number of valid block: 314 
+Data size of chrII is 402 .
+Total blocks in chrII: 4148
+Number of valid block: 261 
+Data size of chrIII is 1074 .
+Total blocks in chrIII: 1706
+Number of valid block: 591 
+Data size of chrIV is 182 .
+Total blocks in chrIV: 7436
+Number of valid block: 141 
+Data size of chrV is 237 .
+Total blocks in chrV: 2950
+Number of valid block: 165 
+Data size of chrVI is 0 .
+Data size of chrVII is 525 .
+Total blocks in chrVII: 5403
+Number of valid block: 376 
+Data size of chrVIII is 156 .
+Total blocks in chrVIII: 2715
+Number of valid block: 60 
+Data size of chrIX is 575 .
+Total blocks in chrIX: 2249
+Number of valid block: 382 
+Data size of chrX is 655 .
+Total blocks in chrX: 3771
+Number of valid block: 449 
+Data size of chrXI is 589 .
+Total blocks in chrXI: 3456
+Number of valid block: 399 
+Data size of chrXII is 925 .
+Total blocks in chrXII: 5272
+Number of valid block: 547 
+Data size of chrXIII is 712 .
+Total blocks in chrXIII: 4619
+Number of valid block: 519 
+Data size of chrXIV is 1123 .
+Total blocks in chrXIV: 3961
+Number of valid block: 798 
+Data size of chrXV is 271 .
+Total blocks in chrXV: 5270
+Number of valid block: 169 
+Data size of chrXVI is 14 .
+Total blocks in chrXVI: 4735
+Number of valid block: 10 
+
+Number of missing data: 377 
+Number of imported chromosomes is 16 .
+Data size of chrI is 512 .
+Total blocks in chrI: 1145
+Number of valid block: 314 
+Data size of chrII is 402 .
+Total blocks in chrII: 4148
+Number of valid block: 261 
+Data size of chrIII is 1074 .
+Total blocks in chrIII: 1706
+Number of valid block: 591 
+Data size of chrIV is 182 .
+Total blocks in chrIV: 7436
+Number of valid block: 141 
+Data size of chrV is 237 .
+Total blocks in chrV: 2950
+Number of valid block: 165 
+Data size of chrVI is 0 .
+Data size of chrVII is 525 .
+Total blocks in chrVII: 5403
+Number of valid block: 376 
+Data size of chrVIII is 156 .
+Total blocks in chrVIII: 2715
+Number of valid block: 60 
+Data size of chrIX is 575 .
+Total blocks in chrIX: 2249
+Number of valid block: 382 
+Data size of chrX is 655 .
+Total blocks in chrX: 3771
+Number of valid block: 449 
+Data size of chrXI is 589 .
+Total blocks in chrXI: 3456
+Number of valid block: 399 
+Data size of chrXII is 925 .
+Total blocks in chrXII: 5272
+Number of valid block: 547 
+Data size of chrXIII is 712 .
+Total blocks in chrXIII: 4619
+Number of valid block: 519 
+Data size of chrXIV is 1123 .
+Total blocks in chrXIV: 3961
+Number of valid block: 798 
+Data size of chrXV is 271 .
+Total blocks in chrXV: 5270
+Number of valid block: 169 
+Data size of chrXVI is 14 .
+Total blocks in chrXVI: 4735
+Number of valid block: 10 
+
+Number of missing data: 377 
+Number of imported chromosomes is 16 .
+Data size of chrI is 512 .
+Total blocks in chrI: 1145
+Number of valid block: 314 
+Data size of chrII is 402 .
+Total blocks in chrII: 4148
+Number of valid block: 261 
+Data size of chrIII is 1074 .
+Total blocks in chrIII: 1706
+Number of valid block: 591 
+Data size of chrIV is 182 .
+Total blocks in chrIV: 7436
+Number of valid block: 141 
+Data size of chrV is 237 .
+Total blocks in chrV: 2950
+Number of valid block: 165 
+Data size of chrVI is 0 .
+Data size of chrVII is 525 .
+Total blocks in chrVII: 5403
+Number of valid block: 376 
+Data size of chrVIII is 156 .
+Total blocks in chrVIII: 2715
+Number of valid block: 60 
+Data size of chrIX is 575 .
+Total blocks in chrIX: 2249
+Number of valid block: 382 
+Data size of chrX is 655 .
+Total blocks in chrX: 3771
+Number of valid block: 449 
+Data size of chrXI is 589 .
+Total blocks in chrXI: 3456
+Number of valid block: 399 
+Data size of chrXII is 925 .
+Total blocks in chrXII: 5272
+Number of valid block: 547 
+Data size of chrXIII is 712 .
+Total blocks in chrXIII: 4619
+Number of valid block: 519 
+Data size of chrXIV is 1123 .
+Total blocks in chrXIV: 3961
+Number of valid block: 798 
+Data size of chrXV is 271 .
+Total blocks in chrXV: 5270
+Number of valid block: 169 
+Data size of chrXVI is 14 .
+Total blocks in chrXVI: 4735
+Number of valid block: 10 
+
+Number of missing data: 377 
+Number of imported chromosomes is 16 .
+Data size of chrI is 512 .
+Total blocks in chrI: 1145
+Number of valid block: 314 
+Data size of chrII is 402 .
+Total blocks in chrII: 4148
+Number of valid block: 261 
+Data size of chrIII is 1074 .
+Total blocks in chrIII: 1706
+Number of valid block: 591 
+Data size of chrIV is 182 .
+Total blocks in chrIV: 7436
+Number of valid block: 141 
+Data size of chrV is 237 .
+Total blocks in chrV: 2950
+Number of valid block: 165 
+Data size of chrVI is 0 .
+Data size of chrVII is 525 .
+Total blocks in chrVII: 5403
+Number of valid block: 376 
+Data size of chrVIII is 156 .
+Total blocks in chrVIII: 2715
+Number of valid block: 60 
+Data size of chrIX is 575 .
+Total blocks in chrIX: 2249
+Number of valid block: 382 
+Data size of chrX is 655 .
+Total blocks in chrX: 3771
+Number of valid block: 449 
+Data size of chrXI is 589 .
+Total blocks in chrXI: 3456
+Number of valid block: 399 
+Data size of chrXII is 925 .
+Total blocks in chrXII: 5272
+Number of valid block: 547 
+Data size of chrXIII is 712 .
+Total blocks in chrXIII: 4619
+Number of valid block: 519 
+Data size of chrXIV is 1123 .
+Total blocks in chrXIV: 3961
+Number of valid block: 798 
+Data size of chrXV is 271 .
+Total blocks in chrXV: 5270
+Number of valid block: 169 
+Data size of chrXVI is 14 .
+Total blocks in chrXVI: 4735
+Number of valid block: 10 
+
+Theoretical threshold is ± 0.0039 .
+Export data to result/result1.xls 
+Writing
+
+data size of chrI is 972 
+data size of chrII is 2766 
+data size of chrIII is 1704 
+data size of chrIV is 4521 
+data size of chrV is 2125 
+data size of chrVII is 5119 
+Processing sample pair: D7-D8-DBVPG6765
+Filtering out loci which were not genotyped in both samples...
+Number of loci in the merged file: 43641
+Fraction of loci retained: 0.9999771
+Read global parameters from /home/ltattini/prog/evolrec-ae/gpw-pm-1/lib/da-brm-config.txt .
+result  already exists.
+Parameter Design=A
+Parameter n1=3e+05
+Parameter n2=3e+05
+Parameter t=1
+Parameter ua=4.26
+Parameter UNIT=1000
+Parameter DEG=2
+Parameter BLK=0.2
+Parameter MIN=10
+Parameter MINVALID=10
+Parameter Result1_File=result/result1.xls
+Parameter Result2_File=result/result2.xls
+
+Number of missing data: 1574 
+Number of imported chromosomes is 16 .
+Data size of chrI is 773 .
+Total blocks in chrI: 1145
+Number of valid block: 338 
+Data size of chrII is 2845 .
+Total blocks in chrII: 4148
+Number of valid block: 1765 
+Data size of chrIII is 759 .
+Total blocks in chrIII: 1706
+Number of valid block: 478 
+Data size of chrIV is 5850 .
+Total blocks in chrIV: 7436
+Number of valid block: 3282 
+Data size of chrV is 2197 .
+Total blocks in chrV: 2950
+Number of valid block: 1270 
+Data size of chrVI is 1016 .
+Total blocks in chrVI: 1498
+Number of valid block: 582 
+Data size of chrVII is 3896 .
+Total blocks in chrVII: 5403
+Number of valid block: 2185 
+Data size of chrVIII is 1790 .
+Total blocks in chrVIII: 2715
+Number of valid block: 1085 
+Data size of chrIX is 1464 .
+Total blocks in chrIX: 2249
+Number of valid block: 778 
+Data size of chrX is 2578 .
+Total blocks in chrX: 3771
+Number of valid block: 1558 
+Data size of chrXI is 2353 .
+Total blocks in chrXI: 3456
+Number of valid block: 1423 
+Data size of chrXII is 2991 .
+Total blocks in chrXII: 5272
+Number of valid block: 1897 
+Data size of chrXIII is 2888 .
+Total blocks in chrXIII: 4619
+Number of valid block: 1750 
+Data size of chrXIV is 2660 .
+Total blocks in chrXIV: 3961
+Number of valid block: 1590 
+Data size of chrXV is 4118 .
+Total blocks in chrXV: 5270
+Number of valid block: 2430 
+Data size of chrXVI is 3477 .
+Total blocks in chrXVI: 4735
+Number of valid block: 2070 
+
+Number of missing data: 1574 
+Number of imported chromosomes is 16 .
+Data size of chrI is 773 .
+Total blocks in chrI: 1145
+Number of valid block: 338 
+Data size of chrII is 2845 .
+Total blocks in chrII: 4148
+Number of valid block: 1765 
+Data size of chrIII is 759 .
+Total blocks in chrIII: 1706
+Number of valid block: 478 
+Data size of chrIV is 5850 .
+Total blocks in chrIV: 7436
+Number of valid block: 3282 
+Data size of chrV is 2197 .
+Total blocks in chrV: 2950
+Number of valid block: 1270 
+Data size of chrVI is 1016 .
+Total blocks in chrVI: 1498
+Number of valid block: 582 
+Data size of chrVII is 3896 .
+Total blocks in chrVII: 5403
+Number of valid block: 2185 
+Data size of chrVIII is 1790 .
+Total blocks in chrVIII: 2715
+Number of valid block: 1085 
+Data size of chrIX is 1464 .
+Total blocks in chrIX: 2249
+Number of valid block: 778 
+Data size of chrX is 2578 .
+Total blocks in chrX: 3771
+Number of valid block: 1558 
+Data size of chrXI is 2353 .
+Total blocks in chrXI: 3456
+Number of valid block: 1423 
+Data size of chrXII is 2991 .
+Total blocks in chrXII: 5272
+Number of valid block: 1897 
+Data size of chrXIII is 2888 .
+Total blocks in chrXIII: 4619
+Number of valid block: 1750 
+Data size of chrXIV is 2660 .
+Total blocks in chrXIV: 3961
+Number of valid block: 1590 
+Data size of chrXV is 4118 .
+Total blocks in chrXV: 5270
+Number of valid block: 2430 
+Data size of chrXVI is 3477 .
+Total blocks in chrXVI: 4735
+Number of valid block: 2070 
+
+Number of missing data: 1574 
+Number of imported chromosomes is 16 .
+Data size of chrI is 773 .
+Total blocks in chrI: 1145
+Number of valid block: 338 
+Data size of chrII is 2845 .
+Total blocks in chrII: 4148
+Number of valid block: 1765 
+Data size of chrIII is 759 .
+Total blocks in chrIII: 1706
+Number of valid block: 478 
+Data size of chrIV is 5850 .
+Total blocks in chrIV: 7436
+Number of valid block: 3282 
+Data size of chrV is 2197 .
+Total blocks in chrV: 2950
+Number of valid block: 1270 
+Data size of chrVI is 1016 .
+Total blocks in chrVI: 1498
+Number of valid block: 582 
+Data size of chrVII is 3896 .
+Total blocks in chrVII: 5403
+Number of valid block: 2185 
+Data size of chrVIII is 1790 .
+Total blocks in chrVIII: 2715
+Number of valid block: 1085 
+Data size of chrIX is 1464 .
+Total blocks in chrIX: 2249
+Number of valid block: 778 
+Data size of chrX is 2578 .
+Total blocks in chrX: 3771
+Number of valid block: 1558 
+Data size of chrXI is 2353 .
+Total blocks in chrXI: 3456
+Number of valid block: 1423 
+Data size of chrXII is 2991 .
+Total blocks in chrXII: 5272
+Number of valid block: 1897 
+Data size of chrXIII is 2888 .
+Total blocks in chrXIII: 4619
+Number of valid block: 1750 
+Data size of chrXIV is 2660 .
+Total blocks in chrXIV: 3961
+Number of valid block: 1590 
+Data size of chrXV is 4118 .
+Total blocks in chrXV: 5270
+Number of valid block: 2430 
+Data size of chrXVI is 3477 .
+Total blocks in chrXVI: 4735
+Number of valid block: 2070 
+
+Number of missing data: 1574 
+Number of imported chromosomes is 16 .
+Data size of chrI is 773 .
+Total blocks in chrI: 1145
+Number of valid block: 338 
+Data size of chrII is 2845 .
+Total blocks in chrII: 4148
+Number of valid block: 1765 
+Data size of chrIII is 759 .
+Total blocks in chrIII: 1706
+Number of valid block: 478 
+Data size of chrIV is 5850 .
+Total blocks in chrIV: 7436
+Number of valid block: 3282 
+Data size of chrV is 2197 .
+Total blocks in chrV: 2950
+Number of valid block: 1270 
+Data size of chrVI is 1016 .
+Total blocks in chrVI: 1498
+Number of valid block: 582 
+Data size of chrVII is 3896 .
+Total blocks in chrVII: 5403
+Number of valid block: 2185 
+Data size of chrVIII is 1790 .
+Total blocks in chrVIII: 2715
+Number of valid block: 1085 
+Data size of chrIX is 1464 .
+Total blocks in chrIX: 2249
+Number of valid block: 778 
+Data size of chrX is 2578 .
+Total blocks in chrX: 3771
+Number of valid block: 1558 
+Data size of chrXI is 2353 .
+Total blocks in chrXI: 3456
+Number of valid block: 1423 
+Data size of chrXII is 2991 .
+Total blocks in chrXII: 5272
+Number of valid block: 1897 
+Data size of chrXIII is 2888 .
+Total blocks in chrXIII: 4619
+Number of valid block: 1750 
+Data size of chrXIV is 2660 .
+Total blocks in chrXIV: 3961
+Number of valid block: 1590 
+Data size of chrXV is 4118 .
+Total blocks in chrXV: 5270
+Number of valid block: 2430 
+Data size of chrXVI is 3477 .
+Total blocks in chrXVI: 4735
+Number of valid block: 2070 
+
+Theoretical threshold is ± 0.0039 .
+Export data to result/result1.xls 
+Writing
+
+data size of chrI is 1080 
+data size of chrII is 3984 
+data size of chrIII is 1699 
+data size of chrIV is 7400 
+data size of chrV is 2844 
+data size of chrVI is 1439 
+data size of chrVII is 5319 
+data size of chrVIII is 2654 
+data size of chrIX is 2164 
+data size of chrX is 3562 
+data size of chrXI is 3414 
+data size of chrXII is 5242 
+data size of chrXIII is 4603 
+data size of chrXIV is 3924 
+data size of chrXV is 5226 
+data size of chrXVI is 4665 
+   user  system elapsed 
+ 41.473   7.218  48.694 
+finished.
+Processing sample pair: D7-D8-Y12
+Filtering out loci which were not genotyped in both samples...
+Number of loci in the merged file: 24497
+Fraction of loci retained: 0.9997143
+Read global parameters from /home/ltattini/prog/evolrec-ae/gpw-pm-1/lib/da-brm-config.txt .
+result  already exists.
+Parameter Design=A
+Parameter n1=3e+05
+Parameter n2=3e+05
+Parameter t=1
+Parameter ua=4.26
+Parameter UNIT=1000
+Parameter DEG=2
+Parameter BLK=0.2
+Parameter MIN=10
+Parameter MINVALID=10
+Parameter Result1_File=result/result1.xls
+Parameter Result2_File=result/result2.xls
+
+Number of missing data: 1312 
+Number of imported chromosomes is 16 .
+Data size of chrI is 394 .
+Total blocks in chrI: 1145
+Number of valid block: 239 
+Data size of chrII is 1517 .
+Total blocks in chrII: 4148
+Number of valid block: 1106 
+Data size of chrIII is 697 .
+Total blocks in chrIII: 1706
+Number of valid block: 413 
+Data size of chrIV is 2836 .
+Total blocks in chrIV: 7436
+Number of valid block: 2126 
+Data size of chrV is 1097 .
+Total blocks in chrV: 2950
+Number of valid block: 782 
+Data size of chrVI is 901 .
+Total blocks in chrVI: 1498
+Number of valid block: 480 
+Data size of chrVII is 2478 .
+Total blocks in chrVII: 5403
+Number of valid block: 1595 
+Data size of chrVIII is 1304 .
+Total blocks in chrVIII: 2715
+Number of valid block: 816 
+Data size of chrIX is 943 .
+Total blocks in chrIX: 2249
+Number of valid block: 616 
+Data size of chrX is 1245 .
+Total blocks in chrX: 3771
+Number of valid block: 919 
+Data size of chrXI is 995 .
+Total blocks in chrXI: 3456
+Number of valid block: 739 
+Data size of chrXII is 1655 .
+Total blocks in chrXII: 5272
+Number of valid block: 1282 
+Data size of chrXIII is 1539 .
+Total blocks in chrXIII: 4619
+Number of valid block: 1175 
+Data size of chrXIV is 1200 .
+Total blocks in chrXIV: 3961
+Number of valid block: 854 
+Data size of chrXV is 2142 .
+Total blocks in chrXV: 5270
+Number of valid block: 1515 
+Data size of chrXVI is 1779 .
+Total blocks in chrXVI: 4735
+Number of valid block: 1325 
+
+Number of missing data: 1312 
+Number of imported chromosomes is 16 .
+Data size of chrI is 394 .
+Total blocks in chrI: 1145
+Number of valid block: 239 
+Data size of chrII is 1517 .
+Total blocks in chrII: 4148
+Number of valid block: 1106 
+Data size of chrIII is 697 .
+Total blocks in chrIII: 1706
+Number of valid block: 413 
+Data size of chrIV is 2836 .
+Total blocks in chrIV: 7436
+Number of valid block: 2126 
+Data size of chrV is 1097 .
+Total blocks in chrV: 2950
+Number of valid block: 782 
+Data size of chrVI is 901 .
+Total blocks in chrVI: 1498
+Number of valid block: 480 
+Data size of chrVII is 2478 .
+Total blocks in chrVII: 5403
+Number of valid block: 1595 
+Data size of chrVIII is 1304 .
+Total blocks in chrVIII: 2715
+Number of valid block: 816 
+Data size of chrIX is 943 .
+Total blocks in chrIX: 2249
+Number of valid block: 616 
+Data size of chrX is 1245 .
+Total blocks in chrX: 3771
+Number of valid block: 919 
+Data size of chrXI is 995 .
+Total blocks in chrXI: 3456
+Number of valid block: 739 
+Data size of chrXII is 1655 .
+Total blocks in chrXII: 5272
+Number of valid block: 1282 
+Data size of chrXIII is 1539 .
+Total blocks in chrXIII: 4619
+Number of valid block: 1175 
+Data size of chrXIV is 1200 .
+Total blocks in chrXIV: 3961
+Number of valid block: 854 
+Data size of chrXV is 2142 .
+Total blocks in chrXV: 5270
+Number of valid block: 1515 
+Data size of chrXVI is 1779 .
+Total blocks in chrXVI: 4735
+Number of valid block: 1325 
+
+Number of missing data: 1312 
+Number of imported chromosomes is 16 .
+Data size of chrI is 394 .
+Total blocks in chrI: 1145
+Number of valid block: 239 
+Data size of chrII is 1517 .
+Total blocks in chrII: 4148
+Number of valid block: 1106 
+Data size of chrIII is 697 .
+Total blocks in chrIII: 1706
+Number of valid block: 413 
+Data size of chrIV is 2836 .
+Total blocks in chrIV: 7436
+Number of valid block: 2126 
+Data size of chrV is 1097 .
+Total blocks in chrV: 2950
+Number of valid block: 782 
+Data size of chrVI is 901 .
+Total blocks in chrVI: 1498
+Number of valid block: 480 
+Data size of chrVII is 2478 .
+Total blocks in chrVII: 5403
+Number of valid block: 1595 
+Data size of chrVIII is 1304 .
+Total blocks in chrVIII: 2715
+Number of valid block: 816 
+Data size of chrIX is 943 .
+Total blocks in chrIX: 2249
+Number of valid block: 616 
+Data size of chrX is 1245 .
+Total blocks in chrX: 3771
+Number of valid block: 919 
+Data size of chrXI is 995 .
+Total blocks in chrXI: 3456
+Number of valid block: 739 
+Data size of chrXII is 1655 .
+Total blocks in chrXII: 5272
+Number of valid block: 1282 
+Data size of chrXIII is 1539 .
+Total blocks in chrXIII: 4619
+Number of valid block: 1175 
+Data size of chrXIV is 1200 .
+Total blocks in chrXIV: 3961
+Number of valid block: 854 
+Data size of chrXV is 2142 .
+Total blocks in chrXV: 5270
+Number of valid block: 1515 
+Data size of chrXVI is 1779 .
+Total blocks in chrXVI: 4735
+Number of valid block: 1325 
+
+Number of missing data: 1312 
+Number of imported chromosomes is 16 .
+Data size of chrI is 394 .
+Total blocks in chrI: 1145
+Number of valid block: 239 
+Data size of chrII is 1517 .
+Total blocks in chrII: 4148
+Number of valid block: 1106 
+Data size of chrIII is 697 .
+Total blocks in chrIII: 1706
+Number of valid block: 413 
+Data size of chrIV is 2836 .
+Total blocks in chrIV: 7436
+Number of valid block: 2126 
+Data size of chrV is 1097 .
+Total blocks in chrV: 2950
+Number of valid block: 782 
+Data size of chrVI is 901 .
+Total blocks in chrVI: 1498
+Number of valid block: 480 
+Data size of chrVII is 2478 .
+Total blocks in chrVII: 5403
+Number of valid block: 1595 
+Data size of chrVIII is 1304 .
+Total blocks in chrVIII: 2715
+Number of valid block: 816 
+Data size of chrIX is 943 .
+Total blocks in chrIX: 2249
+Number of valid block: 616 
+Data size of chrX is 1245 .
+Total blocks in chrX: 3771
+Number of valid block: 919 
+Data size of chrXI is 995 .
+Total blocks in chrXI: 3456
+Number of valid block: 739 
+Data size of chrXII is 1655 .
+Total blocks in chrXII: 5272
+Number of valid block: 1282 
+Data size of chrXIII is 1539 .
+Total blocks in chrXIII: 4619
+Number of valid block: 1175 
+Data size of chrXIV is 1200 .
+Total blocks in chrXIV: 3961
+Number of valid block: 854 
+Data size of chrXV is 2142 .
+Total blocks in chrXV: 5270
+Number of valid block: 1515 
+Data size of chrXVI is 1779 .
+Total blocks in chrXVI: 4735
+Number of valid block: 1325 
+
+Theoretical threshold is ± 0.0039 .
+Export data to result/result1.xls 
+Writing
+
+data size of chrI is 1005 
+data size of chrII is 4014 
+data size of chrIII is 1664 
+data size of chrIV is 7398 
+data size of chrV is 2867 
+data size of chrVI is 1372 
+data size of chrVII is 5370 
+data size of chrVIII is 2713 
+data size of chrIX is 2043 
+data size of chrX is 3571 
+data size of chrXI is 3414 
+data size of chrXII is 5206 
+data size of chrXIII is 4603 
+data size of chrXIV is 3871 
+data size of chrXV is 5191 
+data size of chrXVI is 4564 
+   user  system elapsed 
+ 27.350   4.138  31.491 
+finished.
+Processing sample pair: D7-D8-YPS128
+Filtering out loci which were not genotyped in both samples...
+Number of loci in the merged file: 19932
+Fraction of loci retained: 0.9997993
+Read global parameters from /home/ltattini/prog/evolrec-ae/gpw-pm-1/lib/da-brm-config.txt .
+result  already exists.
+Parameter Design=A
+Parameter n1=3e+05
+Parameter n2=3e+05
+Parameter t=1
+Parameter ua=4.26
+Parameter UNIT=1000
+Parameter DEG=2
+Parameter BLK=0.2
+Parameter MIN=10
+Parameter MINVALID=10
+Parameter Result1_File=result/result1.xls
+Parameter Result2_File=result/result2.xls
+
+Number of missing data: 915 
+Number of imported chromosomes is 16 .
+Data size of chrI is 735 .
+Total blocks in chrI: 1145
+Number of valid block: 296 
+Data size of chrII is 1227 .
+Total blocks in chrII: 4148
+Number of valid block: 873 
+Data size of chrIII is 512 .
+Total blocks in chrIII: 1706
+Number of valid block: 363 
+Data size of chrIV is 1978 .
+Total blocks in chrIV: 7436
+Number of valid block: 1494 
+Data size of chrV is 760 .
+Total blocks in chrV: 2950
+Number of valid block: 553 
+Data size of chrVI is 742 .
+Total blocks in chrVI: 1498
+Number of valid block: 398 
+Data size of chrVII is 1390 .
+Total blocks in chrVII: 5403
+Number of valid block: 1071 
+Data size of chrVIII is 1342 .
+Total blocks in chrVIII: 2715
+Number of valid block: 646 
+Data size of chrIX is 684 .
+Total blocks in chrIX: 2249
+Number of valid block: 465 
+Data size of chrX is 1018 .
+Total blocks in chrX: 3771
+Number of valid block: 685 
+Data size of chrXI is 952 .
+Total blocks in chrXI: 3456
+Number of valid block: 723 
+Data size of chrXII is 1682 .
+Total blocks in chrXII: 5272
+Number of valid block: 1063 
+Data size of chrXIII is 1741 .
+Total blocks in chrXIII: 4619
+Number of valid block: 998 
+Data size of chrXIV is 1154 .
+Total blocks in chrXIV: 3961
+Number of valid block: 790 
+Data size of chrXV is 1448 .
+Total blocks in chrXV: 5270
+Number of valid block: 1069 
+Data size of chrXVI is 1353 .
+Total blocks in chrXVI: 4735
+Number of valid block: 959 
+
+Number of missing data: 915 
+Number of imported chromosomes is 16 .
+Data size of chrI is 735 .
+Total blocks in chrI: 1145
+Number of valid block: 296 
+Data size of chrII is 1227 .
+Total blocks in chrII: 4148
+Number of valid block: 873 
+Data size of chrIII is 512 .
+Total blocks in chrIII: 1706
+Number of valid block: 363 
+Data size of chrIV is 1978 .
+Total blocks in chrIV: 7436
+Number of valid block: 1494 
+Data size of chrV is 760 .
+Total blocks in chrV: 2950
+Number of valid block: 553 
+Data size of chrVI is 742 .
+Total blocks in chrVI: 1498
+Number of valid block: 398 
+Data size of chrVII is 1390 .
+Total blocks in chrVII: 5403
+Number of valid block: 1071 
+Data size of chrVIII is 1342 .
+Total blocks in chrVIII: 2715
+Number of valid block: 646 
+Data size of chrIX is 684 .
+Total blocks in chrIX: 2249
+Number of valid block: 465 
+Data size of chrX is 1018 .
+Total blocks in chrX: 3771
+Number of valid block: 685 
+Data size of chrXI is 952 .
+Total blocks in chrXI: 3456
+Number of valid block: 723 
+Data size of chrXII is 1682 .
+Total blocks in chrXII: 5272
+Number of valid block: 1063 
+Data size of chrXIII is 1741 .
+Total blocks in chrXIII: 4619
+Number of valid block: 998 
+Data size of chrXIV is 1154 .
+Total blocks in chrXIV: 3961
+Number of valid block: 790 
+Data size of chrXV is 1448 .
+Total blocks in chrXV: 5270
+Number of valid block: 1069 
+Data size of chrXVI is 1353 .
+Total blocks in chrXVI: 4735
+Number of valid block: 959 
+
+Number of missing data: 915 
+Number of imported chromosomes is 16 .
+Data size of chrI is 735 .
+Total blocks in chrI: 1145
+Number of valid block: 296 
+Data size of chrII is 1227 .
+Total blocks in chrII: 4148
+Number of valid block: 873 
+Data size of chrIII is 512 .
+Total blocks in chrIII: 1706
+Number of valid block: 363 
+Data size of chrIV is 1978 .
+Total blocks in chrIV: 7436
+Number of valid block: 1494 
+Data size of chrV is 760 .
+Total blocks in chrV: 2950
+Number of valid block: 553 
+Data size of chrVI is 742 .
+Total blocks in chrVI: 1498
+Number of valid block: 398 
+Data size of chrVII is 1390 .
+Total blocks in chrVII: 5403
+Number of valid block: 1071 
+Data size of chrVIII is 1342 .
+Total blocks in chrVIII: 2715
+Number of valid block: 646 
+Data size of chrIX is 684 .
+Total blocks in chrIX: 2249
+Number of valid block: 465 
+Data size of chrX is 1018 .
+Total blocks in chrX: 3771
+Number of valid block: 685 
+Data size of chrXI is 952 .
+Total blocks in chrXI: 3456
+Number of valid block: 723 
+Data size of chrXII is 1682 .
+Total blocks in chrXII: 5272
+Number of valid block: 1063 
+Data size of chrXIII is 1741 .
+Total blocks in chrXIII: 4619
+Number of valid block: 998 
+Data size of chrXIV is 1154 .
+Total blocks in chrXIV: 3961
+Number of valid block: 790 
+Data size of chrXV is 1448 .
+Total blocks in chrXV: 5270
+Number of valid block: 1069 
+Data size of chrXVI is 1353 .
+Total blocks in chrXVI: 4735
+Number of valid block: 959 
+
+Number of missing data: 915 
+Number of imported chromosomes is 16 .
+Data size of chrI is 735 .
+Total blocks in chrI: 1145
+Number of valid block: 296 
+Data size of chrII is 1227 .
+Total blocks in chrII: 4148
+Number of valid block: 873 
+Data size of chrIII is 512 .
+Total blocks in chrIII: 1706
+Number of valid block: 363 
+Data size of chrIV is 1978 .
+Total blocks in chrIV: 7436
+Number of valid block: 1494 
+Data size of chrV is 760 .
+Total blocks in chrV: 2950
+Number of valid block: 553 
+Data size of chrVI is 742 .
+Total blocks in chrVI: 1498
+Number of valid block: 398 
+Data size of chrVII is 1390 .
+Total blocks in chrVII: 5403
+Number of valid block: 1071 
+Data size of chrVIII is 1342 .
+Total blocks in chrVIII: 2715
+Number of valid block: 646 
+Data size of chrIX is 684 .
+Total blocks in chrIX: 2249
+Number of valid block: 465 
+Data size of chrX is 1018 .
+Total blocks in chrX: 3771
+Number of valid block: 685 
+Data size of chrXI is 952 .
+Total blocks in chrXI: 3456
+Number of valid block: 723 
+Data size of chrXII is 1682 .
+Total blocks in chrXII: 5272
+Number of valid block: 1063 
+Data size of chrXIII is 1741 .
+Total blocks in chrXIII: 4619
+Number of valid block: 998 
+Data size of chrXIV is 1154 .
+Total blocks in chrXIV: 3961
+Number of valid block: 790 
+Data size of chrXV is 1448 .
+Total blocks in chrXV: 5270
+Number of valid block: 1069 
+Data size of chrXVI is 1353 .
+Total blocks in chrXVI: 4735
+Number of valid block: 959 
+
+Theoretical threshold is ± 0.0039 .
+Export data to result/result1.xls 
+Writing
+
+data size of chrI is 1111 
+data size of chrII is 4004 
+data size of chrIII is 1650 
+data size of chrIV is 7429 
+data size of chrV is 2845 
+data size of chrVI is 1387 
+data size of chrVII is 5373 
+data size of chrVIII is 2703 
+data size of chrIX is 2062 
+data size of chrX is 3680 
+data size of chrXI is 3375 
+data size of chrXII is 5241 
+data size of chrXIII is 4603 
+data size of chrXIV is 3957 
+data size of chrXV is 5238 
+data size of chrXVI is 4694 
+   user  system elapsed 
+ 21.888   3.350  25.239 
+finished.
+Processing sample pair: D10-D11-SK1
+Filtering out loci which were not genotyped in both samples...
+Number of loci in the merged file: 2251
+Fraction of loci retained: 1
+Read global parameters from /home/ltattini/prog/evolrec-ae/gpw-pm-1/lib/da-brm-config.txt .
+result  already exists.
+Parameter Design=A
+Parameter n1=3e+05
+Parameter n2=3e+05
+Parameter t=1
+Parameter ua=4.26
+Parameter UNIT=1000
+Parameter DEG=2
+Parameter BLK=0.2
+Parameter MIN=10
+Parameter MINVALID=10
+Parameter Result1_File=result/result1.xls
+Parameter Result2_File=result/result2.xls
+
+Number of missing data: 11 
+Number of imported chromosomes is 16 .
+Data size of chrI is 135 .
+Total blocks in chrI: 1145
+Number of valid block: 114 
+Data size of chrII is 90 .
+Total blocks in chrII: 4148
+Number of valid block: 76 
+Data size of chrIII is 278 .
+Total blocks in chrIII: 1706
+Number of valid block: 231 
+Data size of chrIV is 72 .
+Total blocks in chrIV: 7436
+Number of valid block: 61 
+Data size of chrV is 70 .
+Total blocks in chrV: 2950
+Number of valid block: 65 
+Data size of chrVI is 1 .
+Total blocks in chrVI: 1498
+Number of valid block: 1 
+Data size of chrVII is 177 .
+Total blocks in chrVII: 5403
+Number of valid block: 148 
+Data size of chrVIII is 9 .
+Total blocks in chrVIII: 2715
+Number of valid block: 6 
+Data size of chrIX is 200 .
+Total blocks in chrIX: 2249
+Number of valid block: 142 
+Data size of chrX is 222 .
+Total blocks in chrX: 3771
+Number of valid block: 188 
+Data size of chrXI is 123 .
+Total blocks in chrXI: 3456
+Number of valid block: 104 
+Data size of chrXII is 192 .
+Total blocks in chrXII: 5272
+Number of valid block: 176 
+Data size of chrXIII is 259 .
+Total blocks in chrXIII: 4619
+Number of valid block: 226 
+Data size of chrXIV is 331 .
+Total blocks in chrXIV: 3961
+Number of valid block: 274 
+Data size of chrXV is 76 .
+Total blocks in chrXV: 5270
+Number of valid block: 63 
+Data size of chrXVI is 3 .
+Total blocks in chrXVI: 4735
+Number of valid block: 3 
+
+Number of missing data: 11 
+Number of imported chromosomes is 16 .
+Data size of chrI is 135 .
+Total blocks in chrI: 1145
+Number of valid block: 114 
+Data size of chrII is 90 .
+Total blocks in chrII: 4148
+Number of valid block: 76 
+Data size of chrIII is 278 .
+Total blocks in chrIII: 1706
+Number of valid block: 231 
+Data size of chrIV is 72 .
+Total blocks in chrIV: 7436
+Number of valid block: 61 
+Data size of chrV is 70 .
+Total blocks in chrV: 2950
+Number of valid block: 65 
+Data size of chrVI is 1 .
+Total blocks in chrVI: 1498
+Number of valid block: 1 
+Data size of chrVII is 177 .
+Total blocks in chrVII: 5403
+Number of valid block: 148 
+Data size of chrVIII is 9 .
+Total blocks in chrVIII: 2715
+Number of valid block: 6 
+Data size of chrIX is 200 .
+Total blocks in chrIX: 2249
+Number of valid block: 142 
+Data size of chrX is 222 .
+Total blocks in chrX: 3771
+Number of valid block: 188 
+Data size of chrXI is 123 .
+Total blocks in chrXI: 3456
+Number of valid block: 104 
+Data size of chrXII is 192 .
+Total blocks in chrXII: 5272
+Number of valid block: 176 
+Data size of chrXIII is 259 .
+Total blocks in chrXIII: 4619
+Number of valid block: 226 
+Data size of chrXIV is 331 .
+Total blocks in chrXIV: 3961
+Number of valid block: 274 
+Data size of chrXV is 76 .
+Total blocks in chrXV: 5270
+Number of valid block: 63 
+Data size of chrXVI is 3 .
+Total blocks in chrXVI: 4735
+Number of valid block: 3 
+
+Number of missing data: 11 
+Number of imported chromosomes is 16 .
+Data size of chrI is 135 .
+Total blocks in chrI: 1145
+Number of valid block: 114 
+Data size of chrII is 90 .
+Total blocks in chrII: 4148
+Number of valid block: 76 
+Data size of chrIII is 278 .
+Total blocks in chrIII: 1706
+Number of valid block: 231 
+Data size of chrIV is 72 .
+Total blocks in chrIV: 7436
+Number of valid block: 61 
+Data size of chrV is 70 .
+Total blocks in chrV: 2950
+Number of valid block: 65 
+Data size of chrVI is 1 .
+Total blocks in chrVI: 1498
+Number of valid block: 1 
+Data size of chrVII is 177 .
+Total blocks in chrVII: 5403
+Number of valid block: 148 
+Data size of chrVIII is 9 .
+Total blocks in chrVIII: 2715
+Number of valid block: 6 
+Data size of chrIX is 200 .
+Total blocks in chrIX: 2249
+Number of valid block: 142 
+Data size of chrX is 222 .
+Total blocks in chrX: 3771
+Number of valid block: 188 
+Data size of chrXI is 123 .
+Total blocks in chrXI: 3456
+Number of valid block: 104 
+Data size of chrXII is 192 .
+Total blocks in chrXII: 5272
+Number of valid block: 176 
+Data size of chrXIII is 259 .
+Total blocks in chrXIII: 4619
+Number of valid block: 226 
+Data size of chrXIV is 331 .
+Total blocks in chrXIV: 3961
+Number of valid block: 274 
+Data size of chrXV is 76 .
+Total blocks in chrXV: 5270
+Number of valid block: 63 
+Data size of chrXVI is 3 .
+Total blocks in chrXVI: 4735
+Number of valid block: 3 
+
+Number of missing data: 11 
+Number of imported chromosomes is 16 .
+Data size of chrI is 135 .
+Total blocks in chrI: 1145
+Number of valid block: 114 
+Data size of chrII is 90 .
+Total blocks in chrII: 4148
+Number of valid block: 76 
+Data size of chrIII is 278 .
+Total blocks in chrIII: 1706
+Number of valid block: 231 
+Data size of chrIV is 72 .
+Total blocks in chrIV: 7436
+Number of valid block: 61 
+Data size of chrV is 70 .
+Total blocks in chrV: 2950
+Number of valid block: 65 
+Data size of chrVI is 1 .
+Total blocks in chrVI: 1498
+Number of valid block: 1 
+Data size of chrVII is 177 .
+Total blocks in chrVII: 5403
+Number of valid block: 148 
+Data size of chrVIII is 9 .
+Total blocks in chrVIII: 2715
+Number of valid block: 6 
+Data size of chrIX is 200 .
+Total blocks in chrIX: 2249
+Number of valid block: 142 
+Data size of chrX is 222 .
+Total blocks in chrX: 3771
+Number of valid block: 188 
+Data size of chrXI is 123 .
+Total blocks in chrXI: 3456
+Number of valid block: 104 
+Data size of chrXII is 192 .
+Total blocks in chrXII: 5272
+Number of valid block: 176 
+Data size of chrXIII is 259 .
+Total blocks in chrXIII: 4619
+Number of valid block: 226 
+Data size of chrXIV is 331 .
+Total blocks in chrXIV: 3961
+Number of valid block: 274 
+Data size of chrXV is 76 .
+Total blocks in chrXV: 5270
+Number of valid block: 63 
+Data size of chrXVI is 3 .
+Total blocks in chrXVI: 4735
+Number of valid block: 3 
+
+Theoretical threshold is ± 0.0039 .
+Export data to result/result1.xls 
+Writing
+
+data size of chrI is 781 
+data size of chrII is 3750 
+data size of chrIII is 1535 
+data size of chrIV is 329 
+data size of chrV is 1735 
+data size of chrVII is 3172 
+Processing sample pair: D10-D11-DBVPG6044
+Filtering out loci which were not genotyped in both samples...
+Number of loci in the merged file: 8345
+Fraction of loci retained: 1
+Read global parameters from /home/ltattini/prog/evolrec-ae/gpw-pm-1/lib/da-brm-config.txt .
+result  already exists.
+Parameter Design=A
+Parameter n1=3e+05
+Parameter n2=3e+05
+Parameter t=1
+Parameter ua=4.26
+Parameter UNIT=1000
+Parameter DEG=2
+Parameter BLK=0.2
+Parameter MIN=10
+Parameter MINVALID=10
+Parameter Result1_File=result/result1.xls
+Parameter Result2_File=result/result2.xls
+
+Number of missing data: 321 
+Number of imported chromosomes is 16 .
+Data size of chrI is 512 .
+Total blocks in chrI: 1145
+Number of valid block: 314 
+Data size of chrII is 402 .
+Total blocks in chrII: 4148
+Number of valid block: 261 
+Data size of chrIII is 1090 .
+Total blocks in chrIII: 1706
+Number of valid block: 593 
+Data size of chrIV is 182 .
+Total blocks in chrIV: 7436
+Number of valid block: 141 
+Data size of chrV is 238 .
+Total blocks in chrV: 2950
+Number of valid block: 166 
+Data size of chrVI is 0 .
+Data size of chrVII is 526 .
+Total blocks in chrVII: 5403
+Number of valid block: 377 
+Data size of chrVIII is 157 .
+Total blocks in chrVIII: 2715
+Number of valid block: 60 
+Data size of chrIX is 581 .
+Total blocks in chrIX: 2249
+Number of valid block: 383 
+Data size of chrX is 655 .
+Total blocks in chrX: 3771
+Number of valid block: 448 
+Data size of chrXI is 589 .
+Total blocks in chrXI: 3456
+Number of valid block: 398 
+Data size of chrXII is 935 .
+Total blocks in chrXII: 5272
+Number of valid block: 548 
+Data size of chrXIII is 714 .
+Total blocks in chrXIII: 4619
+Number of valid block: 519 
+Data size of chrXIV is 1131 .
+Total blocks in chrXIV: 3961
+Number of valid block: 799 
+Data size of chrXV is 281 .
+Total blocks in chrXV: 5270
+Number of valid block: 171 
+Data size of chrXVI is 16 .
+Total blocks in chrXVI: 4735
+Number of valid block: 10 
+
+Number of missing data: 321 
+Number of imported chromosomes is 16 .
+Data size of chrI is 512 .
+Total blocks in chrI: 1145
+Number of valid block: 315 
+Data size of chrII is 402 .
+Total blocks in chrII: 4148
+Number of valid block: 261 
+Data size of chrIII is 1090 .
+Total blocks in chrIII: 1706
+Number of valid block: 593 
+Data size of chrIV is 182 .
+Total blocks in chrIV: 7436
+Number of valid block: 141 
+Data size of chrV is 238 .
+Total blocks in chrV: 2950
+Number of valid block: 166 
+Data size of chrVI is 0 .
+Data size of chrVII is 526 .
+Total blocks in chrVII: 5403
+Number of valid block: 377 
+Data size of chrVIII is 157 .
+Total blocks in chrVIII: 2715
+Number of valid block: 60 
+Data size of chrIX is 581 .
+Total blocks in chrIX: 2249
+Number of valid block: 383 
+Data size of chrX is 655 .
+Total blocks in chrX: 3771
+Number of valid block: 448 
+Data size of chrXI is 589 .
+Total blocks in chrXI: 3456
+Number of valid block: 398 
+Data size of chrXII is 935 .
+Total blocks in chrXII: 5272
+Number of valid block: 548 
+Data size of chrXIII is 714 .
+Total blocks in chrXIII: 4619
+Number of valid block: 519 
+Data size of chrXIV is 1131 .
+Total blocks in chrXIV: 3961
+Number of valid block: 799 
+Data size of chrXV is 281 .
+Total blocks in chrXV: 5270
+Number of valid block: 171 
+Data size of chrXVI is 16 .
+Total blocks in chrXVI: 4735
+Number of valid block: 10 
+
+Number of missing data: 321 
+Number of imported chromosomes is 16 .
+Data size of chrI is 512 .
+Total blocks in chrI: 1145
+Number of valid block: 314 
+Data size of chrII is 402 .
+Total blocks in chrII: 4148
+Number of valid block: 261 
+Data size of chrIII is 1090 .
+Total blocks in chrIII: 1706
+Number of valid block: 593 
+Data size of chrIV is 182 .
+Total blocks in chrIV: 7436
+Number of valid block: 141 
+Data size of chrV is 238 .
+Total blocks in chrV: 2950
+Number of valid block: 166 
+Data size of chrVI is 0 .
+Data size of chrVII is 526 .
+Total blocks in chrVII: 5403
+Number of valid block: 377 
+Data size of chrVIII is 157 .
+Total blocks in chrVIII: 2715
+Number of valid block: 60 
+Data size of chrIX is 581 .
+Total blocks in chrIX: 2249
+Number of valid block: 383 
+Data size of chrX is 655 .
+Total blocks in chrX: 3771
+Number of valid block: 448 
+Data size of chrXI is 589 .
+Total blocks in chrXI: 3456
+Number of valid block: 398 
+Data size of chrXII is 935 .
+Total blocks in chrXII: 5272
+Number of valid block: 548 
+Data size of chrXIII is 714 .
+Total blocks in chrXIII: 4619
+Number of valid block: 519 
+Data size of chrXIV is 1131 .
+Total blocks in chrXIV: 3961
+Number of valid block: 799 
+Data size of chrXV is 281 .
+Total blocks in chrXV: 5270
+Number of valid block: 171 
+Data size of chrXVI is 16 .
+Total blocks in chrXVI: 4735
+Number of valid block: 10 
+
+Number of missing data: 321 
+Number of imported chromosomes is 16 .
+Data size of chrI is 512 .
+Total blocks in chrI: 1145
+Number of valid block: 314 
+Data size of chrII is 402 .
+Total blocks in chrII: 4148
+Number of valid block: 261 
+Data size of chrIII is 1090 .
+Total blocks in chrIII: 1706
+Number of valid block: 593 
+Data size of chrIV is 182 .
+Total blocks in chrIV: 7436
+Number of valid block: 141 
+Data size of chrV is 238 .
+Total blocks in chrV: 2950
+Number of valid block: 166 
+Data size of chrVI is 0 .
+Data size of chrVII is 526 .
+Total blocks in chrVII: 5403
+Number of valid block: 377 
+Data size of chrVIII is 157 .
+Total blocks in chrVIII: 2715
+Number of valid block: 60 
+Data size of chrIX is 581 .
+Total blocks in chrIX: 2249
+Number of valid block: 383 
+Data size of chrX is 655 .
+Total blocks in chrX: 3771
+Number of valid block: 448 
+Data size of chrXI is 589 .
+Total blocks in chrXI: 3456
+Number of valid block: 398 
+Data size of chrXII is 935 .
+Total blocks in chrXII: 5272
+Number of valid block: 548 
+Data size of chrXIII is 714 .
+Total blocks in chrXIII: 4619
+Number of valid block: 519 
+Data size of chrXIV is 1131 .
+Total blocks in chrXIV: 3961
+Number of valid block: 799 
+Data size of chrXV is 281 .
+Total blocks in chrXV: 5270
+Number of valid block: 171 
+Data size of chrXVI is 16 .
+Total blocks in chrXVI: 4735
+Number of valid block: 10 
+
+Theoretical threshold is ± 0.0039 .
+Export data to result/result1.xls 
+Writing
+
+data size of chrI is 972 
+data size of chrII is 2766 
+data size of chrIII is 1704 
+data size of chrIV is 4521 
+Processing sample pair: D10-D11-DBVPG6765
+Filtering out loci which were not genotyped in both samples...
+Number of loci in the merged file: 43642
+Fraction of loci retained: 1
+Read global parameters from /home/ltattini/prog/evolrec-ae/gpw-pm-1/lib/da-brm-config.txt .
+result  already exists.
+Parameter Design=A
+Parameter n1=3e+05
+Parameter n2=3e+05
+Parameter t=1
+Parameter ua=4.26
+Parameter UNIT=1000
+Parameter DEG=2
+Parameter BLK=0.2
+Parameter MIN=10
+Parameter MINVALID=10
+Parameter Result1_File=result/result1.xls
+Parameter Result2_File=result/result2.xls
+
+Number of missing data: 1505 
+Number of imported chromosomes is 16 .
+Data size of chrI is 776 .
+Total blocks in chrI: 1145
+Number of valid block: 337 
+Data size of chrII is 2866 .
+Total blocks in chrII: 4148
+Number of valid block: 1769 
+Data size of chrIII is 761 .
+Total blocks in chrIII: 1706
+Number of valid block: 476 
+Data size of chrIV is 5844 .
+Total blocks in chrIV: 7436
+Number of valid block: 3282 
+Data size of chrV is 2193 .
+Total blocks in chrV: 2950
+Number of valid block: 1272 
+Data size of chrVI is 1003 .
+Total blocks in chrVI: 1498
+Number of valid block: 583 
+Data size of chrVII is 3905 .
+Total blocks in chrVII: 5403
+Number of valid block: 2184 
+Data size of chrVIII is 1791 .
+Total blocks in chrVIII: 2715
+Number of valid block: 1085 
+Data size of chrIX is 1480 .
+Total blocks in chrIX: 2249
+Number of valid block: 781 
+Data size of chrX is 2555 .
+Total blocks in chrX: 3771
+Number of valid block: 1557 
+Data size of chrXI is 2369 .
+Total blocks in chrXI: 3456
+Number of valid block: 1423 
+Data size of chrXII is 2995 .
+Total blocks in chrXII: 5272
+Number of valid block: 1898 
+Data size of chrXIII is 2889 .
+Total blocks in chrXIII: 4619
+Number of valid block: 1750 
+Data size of chrXIV is 2660 .
+Total blocks in chrXIV: 3961
+Number of valid block: 1588 
+Data size of chrXV is 4163 .
+Total blocks in chrXV: 5270
+Number of valid block: 2445 
+Data size of chrXVI is 3475 .
+Total blocks in chrXVI: 4735
+Number of valid block: 2069 
+
+Number of missing data: 1505 
+Number of imported chromosomes is 16 .
+Data size of chrI is 776 .
+Total blocks in chrI: 1145
+Number of valid block: 337 
+Data size of chrII is 2866 .
+Total blocks in chrII: 4148
+Number of valid block: 1769 
+Data size of chrIII is 761 .
+Total blocks in chrIII: 1706
+Number of valid block: 476 
+Data size of chrIV is 5844 .
+Total blocks in chrIV: 7436
+Number of valid block: 3282 
+Data size of chrV is 2193 .
+Total blocks in chrV: 2950
+Number of valid block: 1272 
+Data size of chrVI is 1003 .
+Total blocks in chrVI: 1498
+Number of valid block: 583 
+Data size of chrVII is 3905 .
+Total blocks in chrVII: 5403
+Number of valid block: 2184 
+Data size of chrVIII is 1791 .
+Total blocks in chrVIII: 2715
+Number of valid block: 1085 
+Data size of chrIX is 1480 .
+Total blocks in chrIX: 2249
+Number of valid block: 781 
+Data size of chrX is 2555 .
+Total blocks in chrX: 3771
+Number of valid block: 1557 
+Data size of chrXI is 2369 .
+Total blocks in chrXI: 3456
+Number of valid block: 1423 
+Data size of chrXII is 2995 .
+Total blocks in chrXII: 5272
+Number of valid block: 1898 
+Data size of chrXIII is 2889 .
+Total blocks in chrXIII: 4619
+Number of valid block: 1750 
+Data size of chrXIV is 2660 .
+Total blocks in chrXIV: 3961
+Number of valid block: 1588 
+Data size of chrXV is 4163 .
+Total blocks in chrXV: 5270
+Number of valid block: 2445 
+Data size of chrXVI is 3475 .
+Total blocks in chrXVI: 4735
+Number of valid block: 2069 
+
+Number of missing data: 1505 
+Number of imported chromosomes is 16 .
+Data size of chrI is 776 .
+Total blocks in chrI: 1145
+Number of valid block: 337 
+Data size of chrII is 2866 .
+Total blocks in chrII: 4148
+Number of valid block: 1769 
+Data size of chrIII is 761 .
+Total blocks in chrIII: 1706
+Number of valid block: 476 
+Data size of chrIV is 5844 .
+Total blocks in chrIV: 7436
+Number of valid block: 3282 
+Data size of chrV is 2193 .
+Total blocks in chrV: 2950
+Number of valid block: 1272 
+Data size of chrVI is 1003 .
+Total blocks in chrVI: 1498
+Number of valid block: 583 
+Data size of chrVII is 3905 .
+Total blocks in chrVII: 5403
+Number of valid block: 2184 
+Data size of chrVIII is 1791 .
+Total blocks in chrVIII: 2715
+Number of valid block: 1085 
+Data size of chrIX is 1480 .
+Total blocks in chrIX: 2249
+Number of valid block: 781 
+Data size of chrX is 2555 .
+Total blocks in chrX: 3771
+Number of valid block: 1557 
+Data size of chrXI is 2369 .
+Total blocks in chrXI: 3456
+Number of valid block: 1423 
+Data size of chrXII is 2995 .
+Total blocks in chrXII: 5272
+Number of valid block: 1898 
+Data size of chrXIII is 2889 .
+Total blocks in chrXIII: 4619
+Number of valid block: 1750 
+Data size of chrXIV is 2660 .
+Total blocks in chrXIV: 3961
+Number of valid block: 1588 
+Data size of chrXV is 4163 .
+Total blocks in chrXV: 5270
+Number of valid block: 2445 
+Data size of chrXVI is 3475 .
+Total blocks in chrXVI: 4735
+Number of valid block: 2069 
+
+Number of missing data: 1505 
+Number of imported chromosomes is 16 .
+Data size of chrI is 776 .
+Total blocks in chrI: 1145
+Number of valid block: 337 
+Data size of chrII is 2866 .
+Total blocks in chrII: 4148
+Number of valid block: 1769 
+Data size of chrIII is 761 .
+Total blocks in chrIII: 1706
+Number of valid block: 476 
+Data size of chrIV is 5844 .
+Total blocks in chrIV: 7436
+Number of valid block: 3282 
+Data size of chrV is 2193 .
+Total blocks in chrV: 2950
+Number of valid block: 1272 
+Data size of chrVI is 1003 .
+Total blocks in chrVI: 1498
+Number of valid block: 583 
+Data size of chrVII is 3905 .
+Total blocks in chrVII: 5403
+Number of valid block: 2184 
+Data size of chrVIII is 1791 .
+Total blocks in chrVIII: 2715
+Number of valid block: 1085 
+Data size of chrIX is 1480 .
+Total blocks in chrIX: 2249
+Number of valid block: 781 
+Data size of chrX is 2555 .
+Total blocks in chrX: 3771
+Number of valid block: 1557 
+Data size of chrXI is 2369 .
+Total blocks in chrXI: 3456
+Number of valid block: 1423 
+Data size of chrXII is 2995 .
+Total blocks in chrXII: 5272
+Number of valid block: 1898 
+Data size of chrXIII is 2889 .
+Total blocks in chrXIII: 4619
+Number of valid block: 1750 
+Data size of chrXIV is 2660 .
+Total blocks in chrXIV: 3961
+Number of valid block: 1588 
+Data size of chrXV is 4163 .
+Total blocks in chrXV: 5270
+Number of valid block: 2445 
+Data size of chrXVI is 3475 .
+Total blocks in chrXVI: 4735
+Number of valid block: 2069 
+
+Theoretical threshold is ± 0.0039 .
+Export data to result/result1.xls 
+Writing
+
+data size of chrI is 1080 
+data size of chrII is 3984 
+data size of chrIII is 1699 
+data size of chrIV is 7400 
+data size of chrV is 2844 
+data size of chrVI is 1429 
+data size of chrVII is 5319 
+data size of chrVIII is 2654 
+data size of chrIX is 2164 
+data size of chrX is 3562 
+data size of chrXI is 3414 
+data size of chrXII is 5242 
+data size of chrXIII is 4603 
+data size of chrXIV is 3923 
+data size of chrXV is 5228 
+data size of chrXVI is 4665 
+   user  system elapsed 
+ 41.925   6.570  48.498 
+finished.
+Processing sample pair: D10-D11-Y12
+Filtering out loci which were not genotyped in both samples...
+Number of loci in the merged file: 24493
+Fraction of loci retained: 0.9998775
+Read global parameters from /home/ltattini/prog/evolrec-ae/gpw-pm-1/lib/da-brm-config.txt .
+result  already exists.
+Parameter Design=A
+Parameter n1=3e+05
+Parameter n2=3e+05
+Parameter t=1
+Parameter ua=4.26
+Parameter UNIT=1000
+Parameter DEG=2
+Parameter BLK=0.2
+Parameter MIN=10
+Parameter MINVALID=10
+Parameter Result1_File=result/result1.xls
+Parameter Result2_File=result/result2.xls
+
+Number of missing data: 1245 
+Number of imported chromosomes is 16 .
+Data size of chrI is 393 .
+Total blocks in chrI: 1145
+Number of valid block: 239 
+Data size of chrII is 1519 .
+Total blocks in chrII: 4148
+Number of valid block: 1107 
+Data size of chrIII is 694 .
+Total blocks in chrIII: 1706
+Number of valid block: 411 
+Data size of chrIV is 2839 .
+Total blocks in chrIV: 7436
+Number of valid block: 2126 
+Data size of chrV is 1097 .
+Total blocks in chrV: 2950
+Number of valid block: 783 
+Data size of chrVI is 923 .
+Total blocks in chrVI: 1498
+Number of valid block: 478 
+Data size of chrVII is 2491 .
+Total blocks in chrVII: 5403
+Number of valid block: 1596 
+Data size of chrVIII is 1296 .
+Total blocks in chrVIII: 2715
+Number of valid block: 821 
+Data size of chrIX is 958 .
+Total blocks in chrIX: 2249
+Number of valid block: 615 
+Data size of chrX is 1274 .
+Total blocks in chrX: 3771
+Number of valid block: 920 
+Data size of chrXI is 997 .
+Total blocks in chrXI: 3456
+Number of valid block: 738 
+Data size of chrXII is 1660 .
+Total blocks in chrXII: 5272
+Number of valid block: 1284 
+Data size of chrXIII is 1540 .
+Total blocks in chrXIII: 4619
+Number of valid block: 1172 
+Data size of chrXIV is 1195 .
+Total blocks in chrXIV: 3961
+Number of valid block: 854 
+Data size of chrXV is 2140 .
+Total blocks in chrXV: 5270
+Number of valid block: 1515 
+Data size of chrXVI is 1775 .
+Total blocks in chrXVI: 4735
+Number of valid block: 1324 
+
+Number of missing data: 1245 
+Number of imported chromosomes is 16 .
+Data size of chrI is 393 .
+Total blocks in chrI: 1145
+Number of valid block: 239 
+Data size of chrII is 1519 .
+Total blocks in chrII: 4148
+Number of valid block: 1107 
+Data size of chrIII is 694 .
+Total blocks in chrIII: 1706
+Number of valid block: 411 
+Data size of chrIV is 2839 .
+Total blocks in chrIV: 7436
+Number of valid block: 2126 
+Data size of chrV is 1097 .
+Total blocks in chrV: 2950
+Number of valid block: 783 
+Data size of chrVI is 923 .
+Total blocks in chrVI: 1498
+Number of valid block: 478 
+Data size of chrVII is 2491 .
+Total blocks in chrVII: 5403
+Number of valid block: 1596 
+Data size of chrVIII is 1296 .
+Total blocks in chrVIII: 2715
+Number of valid block: 821 
+Data size of chrIX is 958 .
+Total blocks in chrIX: 2249
+Number of valid block: 615 
+Data size of chrX is 1274 .
+Total blocks in chrX: 3771
+Number of valid block: 920 
+Data size of chrXI is 997 .
+Total blocks in chrXI: 3456
+Number of valid block: 738 
+Data size of chrXII is 1660 .
+Total blocks in chrXII: 5272
+Number of valid block: 1284 
+Data size of chrXIII is 1540 .
+Total blocks in chrXIII: 4619
+Number of valid block: 1172 
+Data size of chrXIV is 1195 .
+Total blocks in chrXIV: 3961
+Number of valid block: 854 
+Data size of chrXV is 2140 .
+Total blocks in chrXV: 5270
+Number of valid block: 1515 
+Data size of chrXVI is 1775 .
+Total blocks in chrXVI: 4735
+Number of valid block: 1324 
+
+Number of missing data: 1245 
+Number of imported chromosomes is 16 .
+Data size of chrI is 393 .
+Total blocks in chrI: 1145
+Number of valid block: 239 
+Data size of chrII is 1519 .
+Total blocks in chrII: 4148
+Number of valid block: 1107 
+Data size of chrIII is 694 .
+Total blocks in chrIII: 1706
+Number of valid block: 411 
+Data size of chrIV is 2839 .
+Total blocks in chrIV: 7436
+Number of valid block: 2126 
+Data size of chrV is 1097 .
+Total blocks in chrV: 2950
+Number of valid block: 783 
+Data size of chrVI is 923 .
+Total blocks in chrVI: 1498
+Number of valid block: 478 
+Data size of chrVII is 2491 .
+Total blocks in chrVII: 5403
+Number of valid block: 1596 
+Data size of chrVIII is 1296 .
+Total blocks in chrVIII: 2715
+Number of valid block: 821 
+Data size of chrIX is 958 .
+Total blocks in chrIX: 2249
+Number of valid block: 615 
+Data size of chrX is 1274 .
+Total blocks in chrX: 3771
+Number of valid block: 920 
+Data size of chrXI is 997 .
+Total blocks in chrXI: 3456
+Number of valid block: 738 
+Data size of chrXII is 1660 .
+Total blocks in chrXII: 5272
+Number of valid block: 1284 
+Data size of chrXIII is 1540 .
+Total blocks in chrXIII: 4619
+Number of valid block: 1172 
+Data size of chrXIV is 1195 .
+Total blocks in chrXIV: 3961
+Number of valid block: 854 
+Data size of chrXV is 2140 .
+Total blocks in chrXV: 5270
+Number of valid block: 1515 
+Data size of chrXVI is 1775 .
+Total blocks in chrXVI: 4735
+Number of valid block: 1324 
+
+Number of missing data: 1245 
+Number of imported chromosomes is 16 .
+Data size of chrI is 393 .
+Total blocks in chrI: 1145
+Number of valid block: 239 
+Data size of chrII is 1519 .
+Total blocks in chrII: 4148
+Number of valid block: 1107 
+Data size of chrIII is 694 .
+Total blocks in chrIII: 1706
+Number of valid block: 411 
+Data size of chrIV is 2839 .
+Total blocks in chrIV: 7436
+Number of valid block: 2126 
+Data size of chrV is 1097 .
+Total blocks in chrV: 2950
+Number of valid block: 783 
+Data size of chrVI is 923 .
+Total blocks in chrVI: 1498
+Number of valid block: 478 
+Data size of chrVII is 2491 .
+Total blocks in chrVII: 5403
+Number of valid block: 1596 
+Data size of chrVIII is 1296 .
+Total blocks in chrVIII: 2715
+Number of valid block: 821 
+Data size of chrIX is 958 .
+Total blocks in chrIX: 2249
+Number of valid block: 615 
+Data size of chrX is 1274 .
+Total blocks in chrX: 3771
+Number of valid block: 920 
+Data size of chrXI is 997 .
+Total blocks in chrXI: 3456
+Number of valid block: 738 
+Data size of chrXII is 1660 .
+Total blocks in chrXII: 5272
+Number of valid block: 1284 
+Data size of chrXIII is 1540 .
+Total blocks in chrXIII: 4619
+Number of valid block: 1172 
+Data size of chrXIV is 1195 .
+Total blocks in chrXIV: 3961
+Number of valid block: 854 
+Data size of chrXV is 2140 .
+Total blocks in chrXV: 5270
+Number of valid block: 1515 
+Data size of chrXVI is 1775 .
+Total blocks in chrXVI: 4735
+Number of valid block: 1324 
+
+Theoretical threshold is ± 0.0039 .
+Export data to result/result1.xls 
+Writing
+
+data size of chrI is 1005 
+data size of chrII is 4014 
+data size of chrIII is 1664 
+data size of chrIV is 7398 
+data size of chrV is 2867 
+data size of chrVI is 1372 
+data size of chrVII is 5370 
+data size of chrVIII is 2713 
+data size of chrIX is 2043 
+data size of chrX is 3571 
+data size of chrXI is 3414 
+data size of chrXII is 5232 
+data size of chrXIII is 4603 
+data size of chrXIV is 3871 
+data size of chrXV is 5191 
+data size of chrXVI is 4564 
+   user  system elapsed 
+ 27.887   5.698  33.588 
+finished.
+Processing sample pair: D10-D11-YPS128
+Filtering out loci which were not genotyped in both samples...
+Number of loci in the merged file: 19932
+Fraction of loci retained: 0.9997993
+Read global parameters from /home/ltattini/prog/evolrec-ae/gpw-pm-1/lib/da-brm-config.txt .
+result  already exists.
+Parameter Design=A
+Parameter n1=3e+05
+Parameter n2=3e+05
+Parameter t=1
+Parameter ua=4.26
+Parameter UNIT=1000
+Parameter DEG=2
+Parameter BLK=0.2
+Parameter MIN=10
+Parameter MINVALID=10
+Parameter Result1_File=result/result1.xls
+Parameter Result2_File=result/result2.xls
+
+Number of missing data: 862 
+Number of imported chromosomes is 16 .
+Data size of chrI is 737 .
+Total blocks in chrI: 1145
+Number of valid block: 297 
+Data size of chrII is 1225 .
+Total blocks in chrII: 4148
+Number of valid block: 873 
+Data size of chrIII is 513 .
+Total blocks in chrIII: 1706
+Number of valid block: 364 
+Data size of chrIV is 1982 .
+Total blocks in chrIV: 7436
+Number of valid block: 1496 
+Data size of chrV is 771 .
+Total blocks in chrV: 2950
+Number of valid block: 555 
+Data size of chrVI is 746 .
+Total blocks in chrVI: 1498
+Number of valid block: 398 
+Data size of chrVII is 1383 .
+Total blocks in chrVII: 5403
+Number of valid block: 1069 
+Data size of chrVIII is 1353 .
+Total blocks in chrVIII: 2715
+Number of valid block: 644 
+Data size of chrIX is 685 .
+Total blocks in chrIX: 2249
+Number of valid block: 467 
+Data size of chrX is 1033 .
+Total blocks in chrX: 3771
+Number of valid block: 686 
+Data size of chrXI is 952 .
+Total blocks in chrXI: 3456
+Number of valid block: 725 
+Data size of chrXII is 1698 .
+Total blocks in chrXII: 5272
+Number of valid block: 1063 
+Data size of chrXIII is 1737 .
+Total blocks in chrXIII: 4619
+Number of valid block: 998 
+Data size of chrXIV is 1157 .
+Total blocks in chrXIV: 3961
+Number of valid block: 791 
+Data size of chrXV is 1452 .
+Total blocks in chrXV: 5270
+Number of valid block: 1072 
+Data size of chrXVI is 1352 .
+Total blocks in chrXVI: 4735
+Number of valid block: 962 
+
+Number of missing data: 862 
+Number of imported chromosomes is 16 .
+Data size of chrI is 737 .
+Total blocks in chrI: 1145
+Number of valid block: 297 
+Data size of chrII is 1225 .
+Total blocks in chrII: 4148
+Number of valid block: 873 
+Data size of chrIII is 513 .
+Total blocks in chrIII: 1706
+Number of valid block: 364 
+Data size of chrIV is 1982 .
+Total blocks in chrIV: 7436
+Number of valid block: 1496 
+Data size of chrV is 771 .
+Total blocks in chrV: 2950
+Number of valid block: 555 
+Data size of chrVI is 746 .
+Total blocks in chrVI: 1498
+Number of valid block: 398 
+Data size of chrVII is 1383 .
+Total blocks in chrVII: 5403
+Number of valid block: 1069 
+Data size of chrVIII is 1353 .
+Total blocks in chrVIII: 2715
+Number of valid block: 644 
+Data size of chrIX is 685 .
+Total blocks in chrIX: 2249
+Number of valid block: 467 
+Data size of chrX is 1033 .
+Total blocks in chrX: 3771
+Number of valid block: 686 
+Data size of chrXI is 952 .
+Total blocks in chrXI: 3456
+Number of valid block: 725 
+Data size of chrXII is 1698 .
+Total blocks in chrXII: 5272
+Number of valid block: 1063 
+Data size of chrXIII is 1737 .
+Total blocks in chrXIII: 4619
+Number of valid block: 998 
+Data size of chrXIV is 1157 .
+Total blocks in chrXIV: 3961
+Number of valid block: 791 
+Data size of chrXV is 1452 .
+Total blocks in chrXV: 5270
+Number of valid block: 1072 
+Data size of chrXVI is 1352 .
+Total blocks in chrXVI: 4735
+Number of valid block: 962 
+
+Number of missing data: 862 
+Number of imported chromosomes is 16 .
+Data size of chrI is 737 .
+Total blocks in chrI: 1145
+Number of valid block: 297 
+Data size of chrII is 1225 .
+Total blocks in chrII: 4148
+Number of valid block: 873 
+Data size of chrIII is 513 .
+Total blocks in chrIII: 1706
+Number of valid block: 364 
+Data size of chrIV is 1982 .
+Total blocks in chrIV: 7436
+Number of valid block: 1496 
+Data size of chrV is 771 .
+Total blocks in chrV: 2950
+Number of valid block: 555 
+Data size of chrVI is 746 .
+Total blocks in chrVI: 1498
+Number of valid block: 398 
+Data size of chrVII is 1383 .
+Total blocks in chrVII: 5403
+Number of valid block: 1069 
+Data size of chrVIII is 1353 .
+Total blocks in chrVIII: 2715
+Number of valid block: 644 
+Data size of chrIX is 685 .
+Total blocks in chrIX: 2249
+Number of valid block: 467 
+Data size of chrX is 1033 .
+Total blocks in chrX: 3771
+Number of valid block: 686 
+Data size of chrXI is 952 .
+Total blocks in chrXI: 3456
+Number of valid block: 725 
+Data size of chrXII is 1698 .
+Total blocks in chrXII: 5272
+Number of valid block: 1063 
+Data size of chrXIII is 1737 .
+Total blocks in chrXIII: 4619
+Number of valid block: 998 
+Data size of chrXIV is 1157 .
+Total blocks in chrXIV: 3961
+Number of valid block: 791 
+Data size of chrXV is 1452 .
+Total blocks in chrXV: 5270
+Number of valid block: 1072 
+Data size of chrXVI is 1352 .
+Total blocks in chrXVI: 4735
+Number of valid block: 962 
+
+Number of missing data: 862 
+Number of imported chromosomes is 16 .
+Data size of chrI is 737 .
+Total blocks in chrI: 1145
+Number of valid block: 297 
+Data size of chrII is 1225 .
+Total blocks in chrII: 4148
+Number of valid block: 873 
+Data size of chrIII is 513 .
+Total blocks in chrIII: 1706
+Number of valid block: 364 
+Data size of chrIV is 1982 .
+Total blocks in chrIV: 7436
+Number of valid block: 1496 
+Data size of chrV is 771 .
+Total blocks in chrV: 2950
+Number of valid block: 555 
+Data size of chrVI is 746 .
+Total blocks in chrVI: 1498
+Number of valid block: 398 
+Data size of chrVII is 1383 .
+Total blocks in chrVII: 5403
+Number of valid block: 1069 
+Data size of chrVIII is 1353 .
+Total blocks in chrVIII: 2715
+Number of valid block: 644 
+Data size of chrIX is 685 .
+Total blocks in chrIX: 2249
+Number of valid block: 467 
+Data size of chrX is 1033 .
+Total blocks in chrX: 3771
+Number of valid block: 686 
+Data size of chrXI is 952 .
+Total blocks in chrXI: 3456
+Number of valid block: 725 
+Data size of chrXII is 1698 .
+Total blocks in chrXII: 5272
+Number of valid block: 1063 
+Data size of chrXIII is 1737 .
+Total blocks in chrXIII: 4619
+Number of valid block: 998 
+Data size of chrXIV is 1157 .
+Total blocks in chrXIV: 3961
+Number of valid block: 791 
+Data size of chrXV is 1452 .
+Total blocks in chrXV: 5270
+Number of valid block: 1072 
+Data size of chrXVI is 1352 .
+Total blocks in chrXVI: 4735
+Number of valid block: 962 
+
+Theoretical threshold is ± 0.0039 .
+Export data to result/result1.xls 
+Writing
+
+data size of chrI is 1111 
+data size of chrII is 4004 
+data size of chrIII is 1650 
+data size of chrIV is 7429 
+data size of chrV is 2845 
+data size of chrVI is 1387 
+data size of chrVII is 5373 
+data size of chrVIII is 2702 
+data size of chrIX is 2062 
+data size of chrX is 3680 
+data size of chrXI is 3375 
+data size of chrXII is 5241 
+data size of chrXIII is 4603 
+data size of chrXIV is 3957 
+data size of chrXV is 5238 
+data size of chrXVI is 4694 
+   user  system elapsed 
+ 21.666   4.242  25.910 
+finished.

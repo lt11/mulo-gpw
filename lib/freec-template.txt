@@ -1,0 +1,18 @@
+[general]
+
+chrLenFile = strclf
+ploidy = 1
+chrFiles = strcf
+telocentromeric = 4000
+coefficientOfVariation = 0.05
+maxThreads = 22
+gemMappabilityFile = strmpf
+outputDir = strod
+
+[sample]
+
+mateFile = strmf
+inputFormat = BAM
+mateOrientation = 0
+
+[control]
